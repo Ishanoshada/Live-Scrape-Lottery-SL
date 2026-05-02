@@ -7,7 +7,7 @@ from srilanka_lottery import (
 )
 
 # එක වරකදී ලබා ගන්නා උපරිම දත්ත ප්‍රමාණය
-LIMIT = 1000
+LIMIT = 100
 
 def update_txt_file(folder, lottery_id, new_data):
     """දත්ත TXT ගොනුවට ඇතුළත් කර Duplicate ඉවත් කරයි."""
