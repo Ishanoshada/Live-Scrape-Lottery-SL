@@ -6,11 +6,70 @@ from srilanka_lottery import (
     scrape_dlb_latest_results
 )
 
-# එක වරකදී ලබා ගන්නා උපරිම දත්ත ප්‍රමාණය
 LIMIT = 100
+BASE_GITHUB_URL = "https://github.com/Ishanoshada/Live-Scrape-Lottery-SL/blob/main"
+
+def get_file_info(folder, filename):
+    """ගොනුවේ දත්ත පේළි ගණන සහ ප්‍රමාණය ලබා ගනී."""
+    path = os.path.join(folder, filename)
+    if not os.path.exists(path):
+        return 0, "0 KB"
+    
+    with open(path, "r", encoding="utf-8") as f:
+        lines = f.readlines()
+        data_count = len(lines) - 1 if len(lines) > 0 else 0
+        
+    size_bytes = os.path.getsize(path)
+    if size_bytes < 1024:
+        size_str = f"{size_bytes} Bytes"
+    elif size_bytes < 1024 * 1024:
+        size_str = f"{size_bytes / 1024:.2f} KB"
+    else:
+        size_str = f"{size_bytes / (1024 * 1024):.2f} MB"
+        
+    return data_count, size_str
+
+def generate_readme_table():
+    """README සඳහා ලොතරැයි දත්ත වගුව සකස් කරයි."""
+    tables_content = "## 📊 Data Summary\n\n"
+    
+    for folder in ["nlb_txt", "dlb_txt"]:
+        header_name = "National Lottery Board (NLB)" if folder == "nlb_txt" else "Development Lottery Board (DLB)"
+        tables_content += f"### {header_name}\n"
+        tables_content += "| Lottery Name | File Link | Data Length | File Size |\n"
+        tables_content += "| :--- | :--- | :--- | :--- |\n"
+        
+        if os.path.exists(folder):
+            files = sorted([f for f in os.listdir(folder) if f.endswith(".txt")])
+            for f in files:
+                count, size = get_file_info(folder, f)
+                name = f.replace(".txt", "").replace("-", " ").title()
+                link = f"[{f}]({BASE_GITHUB_URL}/{folder}/{f})"
+                tables_content += f"| {name} | {link} | {count} Rows | {size} |\n"
+        tables_content += "\n"
+    return tables_content
+
+def update_readme(table_html):
+    """README.md ගොනුවේ වගුව පමණක් යාවත්කාලීන කරයි."""
+    readme_path = "README.md"
+    if not os.path.exists(readme_path):
+        return
+
+    with open(readme_path, "r", encoding="utf-8") as f:
+        content = f.read()
+
+    # Table එක ඇතුළත් කළ යුතු ස්ථානය හඳුනා ගැනීම
+    marker_start = "## 📊 Data Summary"
+    if marker_start in content:
+        upper_part = content.split(marker_start)[0]
+        new_content = upper_part + table_html
+    else:
+        new_content = content + "\n\n" + table_html
+
+    with open(readme_path, "w", encoding="utf-8") as f:
+        f.write(new_content)
 
 def update_txt_file(folder, lottery_id, new_data):
-    """දත්ත TXT ගොනුවට ඇතුළත් කර Duplicate ඉවත් කරයි."""
     if not os.path.exists(folder):
         os.makedirs(folder)
     
@@ -18,85 +77,60 @@ def update_txt_file(folder, lottery_id, new_data):
     existing_draws = set()
     file_content = []
 
-    # 1. පවතින ගොනුව කියවා දැනටමත් ඇති Draw Numbers හඳුනා ගැනීම
     if os.path.exists(file_path):
         with open(file_path, "r", encoding="utf-8") as f:
             lines = f.readlines()
-            # Header එක හැර අනෙක් පේළි කියවීම
             for line in lines[1:]:
                 parts = line.strip().split(",")
                 if parts:
                     existing_draws.add(parts[0])
                     file_content.append(line.strip())
 
-    # 2. අලුත් දත්ත පරීක්ෂා කර Duplicate නැති ඒවා පමණක් එකතු කිරීම
-    added_count = 0
+    added = 0
     for res in new_data:
         draw_no = str(res['draw'])
         if draw_no not in existing_draws:
-            # දත්ත පේළිය සකස් කිරීම: Draw,Date,Letter,Num1,Num2...
-            numbers_str = ",".join(res['numbers'])
-            line = f"{draw_no},{res['date']},{res['letter']},{numbers_str}"
+            line = f"{draw_no},{res['date']},{res['letter']},{','.join(res['numbers'])}"
             file_content.append(line)
             existing_draws.add(draw_no)
-            added_count += 1
+            added += 1
 
-    # 3. Draw Number එක අනුව Sort කිරීම (පිළිවෙළට තැබීම)
     if file_content:
         file_content.sort(key=lambda x: int(x.split(",")[0]))
 
-    # 4. ගොනුව සුරැකීම
     with open(file_path, "w", encoding="utf-8") as f:
         f.write("Draw,Date,Letter,Numbers...\n")
         for line in file_content:
             f.write(line + "\n")
             
-    return len(file_content), added_count
+    return added
 
 def process():
-    print("=== Starting Lottery Scraper Automation ===")
+    print("=== Starting Scraper ===")
     
-    # --- National Lottery Board (NLB) ---
-    print("\n--- Processing NLB ---")
-    try:
-        nlb_active, session = scrape_nlb_active_lottery_names()
-        if "NLB_Active" in nlb_active:
-            for lot in nlb_active["NLB_Active"]:
-                # API එකට ගැළපෙන ලෙස නම සකස් කිරීම
+    # NLB
+    nlb_active, session = scrape_nlb_active_lottery_names()
+    if "NLB_Active" in nlb_active:
+        for lot in nlb_active["NLB_Active"]:
+            lot_id = lot.lower().replace(" ", "-")
+            data = scrape_nlb_latest_results(session, lot_id, limit=LIMIT)
+            if "NLB_Results" in data:
+                update_txt_file("nlb_txt", lot_id, data["NLB_Results"])
+
+    # DLB
+    dlb_names = scrape_dlb_lottery_names()
+    if "DLB" in dlb_names:
+        for lot in dlb_names["DLB"]:
+            data = scrape_dlb_latest_results(lot, limit=LIMIT)
+            if "DLB_Results" in data:
                 lot_id = lot.lower().replace(" ", "-")
-                try:
-                    data = scrape_nlb_latest_results(session, lot_id, limit=LIMIT)
-                    if "NLB_Results" in data and data["NLB_Results"]:
-                        total, added = update_txt_file("nlb_txt", lot_id, data["NLB_Results"])
-                        print(f"[{lot}] Added: {added} | Total Records: {total}")
-                    else:
-                        print(f"[{lot}] No new results found.")
-                except Exception as e:
-                    print(f"[{lot}] Scrape Error: {e}")
-    except Exception as e:
-        print(f"NLB Session Error: {e}")
+                update_txt_file("dlb_txt", lot_id, data["DLB_Results"])
 
-    # --- Development Lottery Board (DLB) ---
-    print("\n--- Processing DLB ---")
-    try:
-        dlb_names = scrape_dlb_lottery_names()
-        if "DLB" in dlb_names:
-            for lot in dlb_names["DLB"]:
-                try:
-                    data = scrape_dlb_latest_results(lot, limit=LIMIT)
-                    if "DLB_Results" in data and data["DLB_Results"]:
-                        # DLB සඳහා ID එක නමෙන්ම සකසා ගැනීම
-                        lot_id = lot.lower().replace(" ", "-")
-                        total, added = update_txt_file("dlb_txt", lot_id, data["DLB_Results"])
-                        print(f"[{lot}] Added: {added} | Total Records: {total}")
-                    else:
-                        print(f"[{lot}] No new results found.")
-                except Exception as e:
-                    print(f"[{lot}] Scrape Error: {e}")
-    except Exception as e:
-        print(f"DLB Names Error: {e}")
-
-    print("\n=== Update Completed ===")
+    # README Table Update
+    print("Updating README table...")
+    table_data = generate_readme_table()
+    update_readme(table_data)
+    print("Done!")
 
 if __name__ == "__main__":
     process()
