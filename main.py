@@ -1,4 +1,5 @@
 import os
+from datetime import datetime, timedelta
 from srilanka_lottery import (
     scrape_nlb_active_lottery_names, 
     scrape_nlb_latest_results,
@@ -8,6 +9,12 @@ from srilanka_lottery import (
 
 LIMIT = 100
 BASE_GITHUB_URL = "https://github.com/Ishanoshada/Live-Scrape-Lottery-SL/blob/main"
+
+def get_sl_time():
+    """ශ්‍රී ලංකාවේ වර්තමාන වේලාව (UTC+5:30) ලබා ගනී."""
+    # GitHub Actions ක්‍රියාත්මක වන්නේ UTC වේලාවෙන් බැවින් පැය 5 විනාඩි 30ක් එකතු කරයි
+    sl_time = datetime.utcnow() + timedelta(hours=5, minutes=30)
+    return sl_time.strftime('%Y-%m-%d %I:%M:%S %p')
 
 def get_file_info(folder, filename):
     """ගොනුවේ දත්ත පේළි ගණන සහ ප්‍රමාණය ලබා ගනී."""
@@ -30,8 +37,10 @@ def get_file_info(folder, filename):
     return data_count, size_str
 
 def generate_readme_table():
-    """README සඳහා ලොතරැයි දත්ත වගුව සකස් කරයි."""
+    """README සඳහා ලොතරැයි දත්ත වගුව සහ යාවත්කාලීන වේලාව සකස් කරයි."""
+    last_update = get_sl_time()
     tables_content = "## 📊 Data Summary\n\n"
+    tables_content += f"> **Last Updated (Sri Lanka Time):** `{last_update}`\n\n"
     
     for folder in ["nlb_txt", "dlb_txt"]:
         header_name = "National Lottery Board (NLB)" if folder == "nlb_txt" else "Development Lottery Board (DLB)"
@@ -50,7 +59,7 @@ def generate_readme_table():
     return tables_content
 
 def update_readme(table_html):
-    """README.md ගොනුවේ වගුව පමණක් යාවත්කාලීන කරයි."""
+    """README.md ගොනුවේ වගුව සහ වේලාව යාවත්කාලීන කරයි."""
     readme_path = "README.md"
     if not os.path.exists(readme_path):
         return
@@ -58,7 +67,6 @@ def update_readme(table_html):
     with open(readme_path, "r", encoding="utf-8") as f:
         content = f.read()
 
-    # Table එක ඇතුළත් කළ යුතු ස්ථානය හඳුනා ගැනීම
     marker_start = "## 📊 Data Summary"
     if marker_start in content:
         upper_part = content.split(marker_start)[0]
@@ -106,7 +114,7 @@ def update_txt_file(folder, lottery_id, new_data):
     return added
 
 def process():
-    print("=== Starting Scraper ===")
+    print(f"=== Starting Scraper at {get_sl_time()} (SL Time) ===")
     
     # NLB
     nlb_active, session = scrape_nlb_active_lottery_names()
@@ -127,7 +135,7 @@ def process():
                 update_txt_file("dlb_txt", lot_id, data["DLB_Results"])
 
     # README Table Update
-    print("Updating README table...")
+    print("Updating README table and timestamp...")
     table_data = generate_readme_table()
     update_readme(table_data)
     print("Done!")
