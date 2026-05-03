@@ -99,3 +99,4 @@ Draw,Date,Letter,Numbers...
 1484,Thursday April 30, 2026,,10,23,38,50
 1485,Friday May 01, 2026,,3,55,61,62
 1486,Saturday May 02, 2026,,05,32,56,61
+1487,Sunday May 03, 2026,,11,38,45,55

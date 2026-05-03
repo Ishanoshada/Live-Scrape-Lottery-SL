@@ -99,3 +99,4 @@ Draw,Date,Letter,Numbers...
 2523,Thursday April 30, 2026,D,20,11,28,56,74
 2524,Friday May 01, 2026,E,4,6,58,73,74
 2525,Saturday May 02, 2026,M,08,21,61,68,76
+2526,Sunday May 03, 2026,R,25,05,66,67,74

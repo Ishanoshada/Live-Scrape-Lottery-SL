@@ -1499,3 +1499,4 @@ Draw,Date,Letter,Numbers...
 2975,2026-Apr-30 Thursday,W,03,44,59,70
 2976,2026-May-01 Friday,V,08,15,17,59
 2977,2026-May-02 Saturday,W,02,24,32,39
+2978,2026-May-03 Sunday,K,02,21,48,75
