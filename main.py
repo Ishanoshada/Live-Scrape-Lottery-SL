@@ -7,7 +7,7 @@ from srilanka_lottery import (
     scrape_dlb_latest_results
 )
 
-LIMIT = 100
+LIMIT = 1500
 BASE_GITHUB_URL = "https://github.com/Ishanoshada/Live-Scrape-Lottery-SL/blob/main"
 
 def get_sl_time():
