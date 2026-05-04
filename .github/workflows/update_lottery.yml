@@ -2,8 +2,8 @@ name: Update Lottery Data
 
 on:
   schedule:
-    # සෑම විනාඩි 20කට වරක් ක්‍රියාත්මක වේ (මෙහි 20 වෙනුවට 10 දැමිය හැක, නමුත් 20 නිර්දේශ කරමි)
-    - cron: '*/300 * * * *'
+    # සෑම පැය 5කට වරක් (විනාඩි 300කට වරක්) ක්‍රියාත්මක වේ. 
+    - cron: '0 */5 * * *'
   workflow_dispatch: # අවශ්‍ය විටක manual run කිරීමට
 
 jobs:
@@ -25,13 +25,19 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r requirements.txt
 
+    # 1 වැනි පියවර: දත්ත ලබා ගැනීම සහ Table එක Update කිරීම
     - name: Run Scraper
       run: python main.py
 
+    # 2 වැනි පියවර: දත්ත විශ්ලේෂණය කර README එකට Report එක දැමීම
+    - name: Run Data Analyzer
+      run: python analyzer.py
+
+    # 3 වැනි පියවර: වෙනස්කම් ගබඩාවට Push කිරීම
     - name: Commit and Push changes
       run: |
         git config --global user.name "GitHub Action"
         git config --global user.email "action@github.com"
         git add nlb_txt/*.txt dlb_txt/*.txt README.md
-        git commit -m "Auto-update lottery results and README [skip ci]" || echo "No changes to commit"
+        git commit -m "Auto-update lottery results and Analytics README [skip ci]" || echo "No changes to commit"
         git push

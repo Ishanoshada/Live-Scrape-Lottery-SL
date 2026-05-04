@@ -59,7 +59,7 @@ def generate_readme_table():
     return tables_content
 
 def update_readme(table_html):
-    """README.md ගොනුවේ වගුව සහ වේලාව යාවත්කාලීන කරයි."""
+    """README.md ගොනුවේ Data Summary වගුව පමණක් ආරක්ෂිතව යාවත්කාලීන කරයි."""
     readme_path = "README.md"
     if not os.path.exists(readme_path):
         return
@@ -67,10 +67,22 @@ def update_readme(table_html):
     with open(readme_path, "r", encoding="utf-8") as f:
         content = f.read()
 
-    marker_start = "## 📊 Data Summary"
-    if marker_start in content:
-        upper_part = content.split(marker_start)[0]
-        new_content = upper_part + table_html
+    marker_summary = "## 📊 Data Summary"
+    marker_analytic = "## 📈 Lottery Data Analytic Report"
+
+    # Data Summary කොටස තිබේදැයි පරීක්ෂා කිරීම
+    if marker_summary in content:
+        # Data Summary ට උඩින් ඇති සියල්ල වෙන් කර ගැනීම
+        upper_part = content.split(marker_summary)[0]
+        
+        # Analytic Report එකක් තිබේදැයි පරීක්ෂා කර එය පහළින් තබා ගැනීම
+        if marker_analytic in content:
+            lower_part = marker_analytic + content.split(marker_analytic)[1]
+        else:
+            lower_part = ""
+            
+        # උඩ කොටස + අලුත් වගුව + යට කොටස (Analytic Report එක)
+        new_content = upper_part + table_html + "\n\n" + lower_part
     else:
         new_content = content + "\n\n" + table_html
 
