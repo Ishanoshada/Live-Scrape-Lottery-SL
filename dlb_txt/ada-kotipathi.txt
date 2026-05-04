@@ -1726,3 +1726,4 @@ Draw,Date,Letter,Numbers...
 2976,2026-May-01 Friday,V,08,15,17,59
 2977,2026-May-02 Saturday,W,02,24,32,39
 2978,2026-May-03 Sunday,K,02,21,48,75
+2979,2026-May-04 Monday,B,31,37,70,73
