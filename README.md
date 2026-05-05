@@ -39,7 +39,7 @@ Developed and maintained by **Ishan Oshada**.
 
 ## 📊 Data Summary
 
-> **Last Updated (Sri Lanka Time):** `2026-05-05 11:14:29 AM`
+> **Last Updated (Sri Lanka Time):** `2026-05-05 01:40:57 PM`
 
 ### National Lottery Board (NLB)
 | Lottery Name | File Link | Data Length | File Size |
