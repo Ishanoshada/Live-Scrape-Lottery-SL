@@ -82,14 +82,14 @@ Developed and maintained by **Ishan Oshada**.
 
 ## 📊 Data Summary
 
-> **Last Updated (Sri Lanka Time):** `2026-05-06 09:54:22 PM`
+> **Last Updated (Sri Lanka Time):** `2026-05-07 02:34:09 AM`
 
 ### National Lottery Board (NLB)
 | Lottery Name | File Link | Data Length | File Size |
 | :--- | :--- | :--- | :--- |
-| Ada Sampatha | [ada-sampatha.txt](https://github.com/Ishanoshada/Live-Scrape-Lottery-SL/blob/main/nlb_txt/ada-sampatha.txt) | 203 Rows | 9.92 KB |
-| Dhana Nidhanaya | [dhana-nidhanaya.txt](https://github.com/Ishanoshada/Live-Scrape-Lottery-SL/blob/main/nlb_txt/dhana-nidhanaya.txt) | 211 Rows | 9.13 KB |
-| Govisetha | [govisetha.txt](https://github.com/Ishanoshada/Live-Scrape-Lottery-SL/blob/main/nlb_txt/govisetha.txt) | 210 Rows | 9.02 KB |
+| Ada Sampatha | [ada-sampatha.txt](https://github.com/Ishanoshada/Live-Scrape-Lottery-SL/blob/main/nlb_txt/ada-sampatha.txt) | 204 Rows | 9.96 KB |
+| Dhana Nidhanaya | [dhana-nidhanaya.txt](https://github.com/Ishanoshada/Live-Scrape-Lottery-SL/blob/main/nlb_txt/dhana-nidhanaya.txt) | 212 Rows | 9.17 KB |
+| Govisetha | [govisetha.txt](https://github.com/Ishanoshada/Live-Scrape-Lottery-SL/blob/main/nlb_txt/govisetha.txt) | 211 Rows | 9.06 KB |
 | Handahana | [handahana.txt](https://github.com/Ishanoshada/Live-Scrape-Lottery-SL/blob/main/nlb_txt/handahana.txt) | 210 Rows | 8.80 KB |
 | Lucky 7 | [lucky-7.txt](https://github.com/Ishanoshada/Live-Scrape-Lottery-SL/blob/main/nlb_txt/lucky-7.txt) | 0 Rows | 28 Bytes |
 | Mahajana Sampatha | [mahajana-sampatha.txt](https://github.com/Ishanoshada/Live-Scrape-Lottery-SL/blob/main/nlb_txt/mahajana-sampatha.txt) | 210 Rows | 9.07 KB |
@@ -116,7 +116,7 @@ Developed and maintained by **Ishan Oshada**.
 
 ## 📈 Lottery Data Analytic Report
 
-> **Analytic Report Last Updated:** `2026-05-06 09:54:22 PM` (Sri Lanka Time)
+> **Analytic Report Last Updated:** `2026-05-07 02:34:09 AM` (Sri Lanka Time)
 >
 > *This table is auto-generated based on the current dataset. It displays the top 5 most frequently drawn numbers and letters (Hits / Total Draws).*
 
@@ -124,10 +124,10 @@ Developed and maintained by **Ishan Oshada**.
 
 | Lottery Name | 🔥 Top 5 Numbers (Hits/Total) | 🔠 Top 5 Letters (Hits/Total) |
 | :--- | :--- | :--- |
-| **Ada Sampatha** | **6** (78/203)<br>**5** (75/203)<br>**7** (72/203)<br>**0** (71/203)<br>**8** (70/203) | **D** (14/203)<br>**N** (13/203)<br>**J** (13/203)<br>**Q** (12/203)<br>**Y** (12/203) |
-| **Dhana Nidhanaya** | **28** (20/211)<br>**9** (20/211)<br>**6** (19/211)<br>**16** (18/211)<br>**4** (16/211) | **U** (13/211)<br>**W** (13/211)<br>**T** (12/211)<br>**M** (12/211)<br>**Q** (11/211) |
-| **Govisetha** | **44** (18/210)<br>**19** (17/210)<br>**55** (17/210)<br>**23** (16/210)<br>**58** (16/210) | **D** (11/210)<br>**W** (11/210)<br>**P** (11/210)<br>**O** (11/210)<br>**X** (11/210) |
-| **Handahana** | **58** (20/210)<br>**55** (20/210)<br>**6** (20/210)<br>**46** (20/210)<br>**60** (19/210) | N/A |
+| **Ada Sampatha** | **6** (79/204)<br>**5** (75/204)<br>**7** (72/204)<br>**0** (71/204)<br>**8** (70/204) | **D** (14/204)<br>**N** (13/204)<br>**J** (13/204)<br>**Q** (12/204)<br>**Y** (12/204) |
+| **Dhana Nidhanaya** | **28** (20/212)<br>**9** (20/212)<br>**6** (19/212)<br>**16** (18/212)<br>**4** (16/212) | **U** (13/212)<br>**W** (13/212)<br>**T** (12/212)<br>**M** (12/212)<br>**Q** (11/212) |
+| **Govisetha** | **44** (18/211)<br>**19** (17/211)<br>**55** (17/211)<br>**23** (16/211)<br>**58** (16/211) | **D** (11/211)<br>**W** (11/211)<br>**P** (11/211)<br>**O** (11/211)<br>**X** (11/211) |
+| **Handahana** | **58** (20/210)<br>**55** (20/210)<br>**46** (20/210)<br>**6** (20/210)<br>**60** (19/210) | N/A |
 | **Mahajana Sampatha** | **6** (104/210)<br>**5** (103/210)<br>**9** (103/210)<br>**1** (103/210)<br>**8** (100/210) | **D** (14/210)<br>**J** (13/210)<br>**N** (12/210)<br>**Q** (12/210)<br>**Y** (12/210) |
 | **Mega Power** | **6** (26/210)<br>**3** (26/210)<br>**22** (24/210)<br>**13** (24/210)<br>**19** (23/210) | **V** (17/210)<br>**T** (13/210)<br>**K** (12/210)<br>**U** (12/210)<br>**J** (10/210) |
 | **Nlb Jaya** | **5** (87/201)<br>**3** (82/201)<br>**0** (77/201)<br>**2** (76/201)<br>**4** (71/201) | **M** (13/201)<br>**I** (13/201)<br>**T** (13/201)<br>**G** (13/201)<br>**P** (12/201) |
