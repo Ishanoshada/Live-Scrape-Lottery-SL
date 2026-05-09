@@ -82,7 +82,7 @@ Developed and maintained by **Ishan Oshada**.
 
 ## 📊 Data Summary
 
-> **Last Updated (Sri Lanka Time):** `2026-05-09 12:33:21 PM`
+> **Last Updated (Sri Lanka Time):** `2026-05-09 04:20:08 PM`
 
 ### National Lottery Board (NLB)
 | Lottery Name | File Link | Data Length | File Size |
@@ -116,7 +116,7 @@ Developed and maintained by **Ishan Oshada**.
 
 ## 📈 Lottery Data Analytic Report
 
-> **Analytic Report Last Updated:** `2026-05-09 12:33:21 PM` (Sri Lanka Time)
+> **Analytic Report Last Updated:** `2026-05-09 04:20:09 PM` (Sri Lanka Time)
 >
 > *This table is auto-generated based on the current dataset. It displays the top 5 most frequently drawn numbers and letters (Hits / Total Draws).*
 
@@ -128,7 +128,7 @@ Developed and maintained by **Ishan Oshada**.
 | **Dhana Nidhanaya** | **28** (21/214)<br>**9** (20/214)<br>**6** (19/214)<br>**16** (18/214)<br>**7** (17/214) | **U** (13/214)<br>**W** (13/214)<br>**T** (12/214)<br>**M** (12/214)<br>**Q** (11/214) |
 | **Govisetha** | **44** (18/213)<br>**19** (17/213)<br>**55** (17/213)<br>**23** (16/213)<br>**58** (16/213) | **D** (11/213)<br>**W** (11/213)<br>**P** (11/213)<br>**O** (11/213)<br>**X** (11/213) |
 | **Handahana** | **58** (20/213)<br>**55** (20/213)<br>**46** (20/213)<br>**6** (20/213)<br>**60** (19/213) | N/A |
-| **Mahajana Sampatha** | **6** (106/213)<br>**1** (105/213)<br>**9** (104/213)<br>**5** (103/213)<br>**2** (103/213) | **D** (14/213)<br>**J** (13/213)<br>**N** (12/213)<br>**Q** (12/213)<br>**Y** (12/213) |
+| **Mahajana Sampatha** | **6** (106/213)<br>**1** (105/213)<br>**9** (104/213)<br>**2** (103/213)<br>**5** (103/213) | **D** (14/213)<br>**J** (13/213)<br>**N** (12/213)<br>**Q** (12/213)<br>**Y** (12/213) |
 | **Mega Power** | **6** (26/213)<br>**3** (26/213)<br>**13** (25/213)<br>**22** (24/213)<br>**19** (23/213) | **V** (17/213)<br>**T** (13/213)<br>**U** (13/213)<br>**K** (12/213)<br>**J** (10/213) |
 | **Nlb Jaya** | **5** (89/204)<br>**3** (82/204)<br>**0** (79/204)<br>**2** (77/204)<br>**4** (72/204) | **M** (13/204)<br>**P** (13/204)<br>**I** (13/204)<br>**T** (13/204)<br>**G** (13/204) |
 | **Suba Dawasak** | **3** (85/213)<br>**1** (85/213)<br>**4** (84/213)<br>**9** (81/213)<br>**8** (76/213) | N/A |
