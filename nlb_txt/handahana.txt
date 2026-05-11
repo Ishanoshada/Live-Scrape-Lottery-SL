@@ -214,3 +214,4 @@ Draw,Date,Letter,Numbers...
 1492,Friday May 08, 2026,,27,33,42,59
 1493,Saturday May 09, 2026,,08,10,15,21
 1494,Sunday May 10, 2026,,10,58,60,61
+1495,Monday May 11, 2026,,21,27,35,61
