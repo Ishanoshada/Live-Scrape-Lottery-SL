@@ -82,7 +82,7 @@ Developed and maintained by **Ishan Oshada**.
 
 ## 📊 Data Summary
 
-> **Last Updated (Sri Lanka Time):** `2026-05-11 01:51:29 PM`
+> **Last Updated (Sri Lanka Time):** `2026-05-11 06:05:32 PM`
 
 ### National Lottery Board (NLB)
 | Lottery Name | File Link | Data Length | File Size |
@@ -116,7 +116,7 @@ Developed and maintained by **Ishan Oshada**.
 
 ## 📈 Lottery Data Analytic Report
 
-> **Analytic Report Last Updated:** `2026-05-11 01:51:29 PM` (Sri Lanka Time)
+> **Analytic Report Last Updated:** `2026-05-11 06:05:32 PM` (Sri Lanka Time)
 >
 > *This table is auto-generated based on the current dataset. It displays the top 5 most frequently drawn numbers and letters (Hits / Total Draws).*
 
@@ -124,11 +124,11 @@ Developed and maintained by **Ishan Oshada**.
 
 | Lottery Name | 🔥 Top 5 Numbers (Hits/Total) | 🔠 Top 5 Letters (Hits/Total) |
 | :--- | :--- | :--- |
-| **Ada Sampatha** | **6** (79/208)<br>**5** (77/208)<br>**7** (74/208)<br>**2** (73/208)<br>**0** (72/208) | **D** (14/208)<br>**J** (14/208)<br>**N** (13/208)<br>**Q** (12/208)<br>**Y** (12/208) |
+| **Ada Sampatha** | **6** (79/208)<br>**5** (77/208)<br>**7** (74/208)<br>**2** (73/208)<br>**4** (72/208) | **D** (14/208)<br>**J** (14/208)<br>**N** (13/208)<br>**Q** (12/208)<br>**Y** (12/208) |
 | **Dhana Nidhanaya** | **28** (21/216)<br>**9** (20/216)<br>**6** (19/216)<br>**16** (18/216)<br>**7** (17/216) | **U** (13/216)<br>**W** (13/216)<br>**T** (12/216)<br>**M** (12/216)<br>**Q** (11/216) |
 | **Govisetha** | **44** (18/215)<br>**19** (17/215)<br>**55** (17/215)<br>**23** (16/215)<br>**58** (16/215) | **P** (12/215)<br>**D** (11/215)<br>**W** (11/215)<br>**O** (11/215)<br>**X** (11/215) |
-| **Handahana** | **58** (21/215)<br>**60** (20/215)<br>**21** (20/215)<br>**55** (20/215)<br>**6** (20/215) | N/A |
-| **Mahajana Sampatha** | **6** (106/215)<br>**9** (105/215)<br>**5** (105/215)<br>**2** (105/215)<br>**1** (105/215) | **D** (14/215)<br>**J** (14/215)<br>**N** (12/215)<br>**Q** (12/215)<br>**Y** (12/215) |
+| **Handahana** | **58** (21/215)<br>**60** (20/215)<br>**21** (20/215)<br>**55** (20/215)<br>**46** (20/215) | N/A |
+| **Mahajana Sampatha** | **6** (106/215)<br>**2** (105/215)<br>**9** (105/215)<br>**5** (105/215)<br>**1** (105/215) | **D** (14/215)<br>**J** (14/215)<br>**N** (12/215)<br>**Q** (12/215)<br>**Y** (12/215) |
 | **Mega Power** | **6** (26/215)<br>**3** (26/215)<br>**13** (25/215)<br>**22** (24/215)<br>**11** (24/215) | **V** (17/215)<br>**T** (13/215)<br>**K** (13/215)<br>**U** (13/215)<br>**J** (11/215) |
 | **Nlb Jaya** | **5** (90/206)<br>**3** (82/206)<br>**0** (79/206)<br>**2** (78/206)<br>**4** (73/206) | **M** (13/206)<br>**P** (13/206)<br>**I** (13/206)<br>**T** (13/206)<br>**G** (13/206) |
 | **Suba Dawasak** | **3** (87/215)<br>**1** (86/215)<br>**4** (85/215)<br>**9** (81/215)<br>**5** (76/215) | N/A |
