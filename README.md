@@ -82,7 +82,7 @@ Developed and maintained by **Ishan Oshada**.
 
 ## 📊 Data Summary
 
-> **Last Updated (Sri Lanka Time):** `2026-05-12 01:08:55 PM`
+> **Last Updated (Sri Lanka Time):** `2026-05-12 05:18:18 PM`
 
 ### National Lottery Board (NLB)
 | Lottery Name | File Link | Data Length | File Size |
@@ -116,7 +116,7 @@ Developed and maintained by **Ishan Oshada**.
 
 ## 📈 Lottery Data Analytic Report
 
-> **Analytic Report Last Updated:** `2026-05-12 01:08:55 PM` (Sri Lanka Time)
+> **Analytic Report Last Updated:** `2026-05-12 05:18:18 PM` (Sri Lanka Time)
 >
 > *This table is auto-generated based on the current dataset. It displays the top 5 most frequently drawn numbers and letters (Hits / Total Draws).*
 
@@ -124,7 +124,7 @@ Developed and maintained by **Ishan Oshada**.
 
 | Lottery Name | 🔥 Top 5 Numbers (Hits/Total) | 🔠 Top 5 Letters (Hits/Total) |
 | :--- | :--- | :--- |
-| **Ada Sampatha** | **6** (80/209)<br>**5** (78/209)<br>**2** (74/209)<br>**7** (74/209)<br>**0** (72/209) | **D** (14/209)<br>**J** (14/209)<br>**N** (13/209)<br>**Q** (12/209)<br>**Y** (12/209) |
+| **Ada Sampatha** | **6** (80/209)<br>**5** (78/209)<br>**7** (74/209)<br>**2** (74/209)<br>**0** (72/209) | **D** (14/209)<br>**J** (14/209)<br>**N** (13/209)<br>**Q** (12/209)<br>**Y** (12/209) |
 | **Dhana Nidhanaya** | **28** (21/217)<br>**9** (20/217)<br>**6** (19/217)<br>**16** (18/217)<br>**7** (17/217) | **U** (13/217)<br>**W** (13/217)<br>**T** (12/217)<br>**M** (12/217)<br>**Q** (11/217) |
 | **Govisetha** | **44** (18/216)<br>**19** (17/216)<br>**55** (17/216)<br>**23** (16/216)<br>**58** (16/216) | **P** (12/216)<br>**D** (11/216)<br>**W** (11/216)<br>**O** (11/216)<br>**X** (11/216) |
 | **Handahana** | **58** (21/216)<br>**21** (21/216)<br>**60** (20/216)<br>**61** (20/216)<br>**55** (20/216) | N/A |
