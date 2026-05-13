@@ -82,7 +82,7 @@ Developed and maintained by **Ishan Oshada**.
 
 ## 📊 Data Summary
 
-> **Last Updated (Sri Lanka Time):** `2026-05-13 10:40:10 PM`
+> **Last Updated (Sri Lanka Time):** `2026-05-14 02:49:19 AM`
 
 ### National Lottery Board (NLB)
 | Lottery Name | File Link | Data Length | File Size |
@@ -93,11 +93,11 @@ Developed and maintained by **Ishan Oshada**.
 | Handahana | [handahana.txt](https://github.com/Ishanoshada/Live-Scrape-Lottery-SL/blob/main/nlb_txt/handahana.txt) | 218 Rows | 9.10 KB |
 | Lucky 7 | [lucky-7.txt](https://github.com/Ishanoshada/Live-Scrape-Lottery-SL/blob/main/nlb_txt/lucky-7.txt) | 0 Rows | 28 Bytes |
 | Mahajana Sampatha | [mahajana-sampatha.txt](https://github.com/Ishanoshada/Live-Scrape-Lottery-SL/blob/main/nlb_txt/mahajana-sampatha.txt) | 218 Rows | 9.38 KB |
-| Mega Power | [mega-power.txt](https://github.com/Ishanoshada/Live-Scrape-Lottery-SL/blob/main/nlb_txt/mega-power.txt) | 217 Rows | 9.93 KB |
-| Nlb Jaya | [nlb-jaya.txt](https://github.com/Ishanoshada/Live-Scrape-Lottery-SL/blob/main/nlb_txt/nlb-jaya.txt) | 208 Rows | 8.19 KB |
+| Mega Power | [mega-power.txt](https://github.com/Ishanoshada/Live-Scrape-Lottery-SL/blob/main/nlb_txt/mega-power.txt) | 218 Rows | 9.98 KB |
+| Nlb Jaya | [nlb-jaya.txt](https://github.com/Ishanoshada/Live-Scrape-Lottery-SL/blob/main/nlb_txt/nlb-jaya.txt) | 209 Rows | 8.22 KB |
 | Samurdhi Scratch Lottery | [samurdhi-scratch-lottery.txt](https://github.com/Ishanoshada/Live-Scrape-Lottery-SL/blob/main/nlb_txt/samurdhi-scratch-lottery.txt) | 0 Rows | 28 Bytes |
 | Sevana Scratch Lottery | [sevana-scratch-lottery.txt](https://github.com/Ishanoshada/Live-Scrape-Lottery-SL/blob/main/nlb_txt/sevana-scratch-lottery.txt) | 0 Rows | 28 Bytes |
-| Suba Dawasak | [suba-dawasak.txt](https://github.com/Ishanoshada/Live-Scrape-Lottery-SL/blob/main/nlb_txt/suba-dawasak.txt) | 217 Rows | 10.11 KB |
+| Suba Dawasak | [suba-dawasak.txt](https://github.com/Ishanoshada/Live-Scrape-Lottery-SL/blob/main/nlb_txt/suba-dawasak.txt) | 218 Rows | 10.15 KB |
 
 ### Development Lottery Board (DLB)
 | Lottery Name | File Link | Data Length | File Size |
@@ -116,7 +116,7 @@ Developed and maintained by **Ishan Oshada**.
 
 ## 📈 Lottery Data Analytic Report
 
-> **Analytic Report Last Updated:** `2026-05-13 10:40:10 PM` (Sri Lanka Time)
+> **Analytic Report Last Updated:** `2026-05-14 02:49:19 AM` (Sri Lanka Time)
 >
 > *This table is auto-generated based on the current dataset. It displays the top 5 most frequently drawn numbers and letters (Hits / Total Draws).*
 
@@ -129,9 +129,9 @@ Developed and maintained by **Ishan Oshada**.
 | **Govisetha** | **44** (18/218)<br>**19** (17/218)<br>**55** (17/218)<br>**23** (16/218)<br>**58** (16/218) | **P** (12/218)<br>**D** (11/218)<br>**W** (11/218)<br>**O** (11/218)<br>**X** (11/218) |
 | **Handahana** | **58** (22/218)<br>**21** (21/218)<br>**60** (20/218)<br>**11** (20/218)<br>**61** (20/218) | N/A |
 | **Mahajana Sampatha** | **6** (108/218)<br>**2** (107/218)<br>**1** (107/218)<br>**5** (106/218)<br>**3** (105/218) | **D** (14/218)<br>**J** (14/218)<br>**N** (12/218)<br>**Q** (12/218)<br>**Y** (12/218) |
-| **Mega Power** | **6** (26/217)<br>**3** (26/217)<br>**13** (25/217)<br>**11** (25/217)<br>**22** (24/217) | **V** (17/217)<br>**T** (13/217)<br>**K** (13/217)<br>**U** (13/217)<br>**J** (11/217) |
-| **Nlb Jaya** | **5** (90/208)<br>**3** (83/208)<br>**0** (80/208)<br>**2** (78/208)<br>**4** (73/208) | **T** (14/208)<br>**M** (13/208)<br>**P** (13/208)<br>**I** (13/208)<br>**G** (13/208) |
-| **Suba Dawasak** | **3** (88/217)<br>**1** (88/217)<br>**4** (87/217)<br>**9** (81/217)<br>**5** (77/217) | N/A |
+| **Mega Power** | **6** (26/218)<br>**3** (26/218)<br>**13** (25/218)<br>**11** (25/218)<br>**22** (24/218) | **V** (17/218)<br>**T** (13/218)<br>**K** (13/218)<br>**U** (13/218)<br>**J** (11/218) |
+| **Nlb Jaya** | **5** (90/209)<br>**3** (84/209)<br>**0** (80/209)<br>**2** (79/209)<br>**1** (74/209) | **T** (14/209)<br>**M** (13/209)<br>**P** (13/209)<br>**I** (13/209)<br>**G** (13/209) |
+| **Suba Dawasak** | **3** (89/218)<br>**1** (89/218)<br>**4** (87/218)<br>**9** (81/218)<br>**5** (77/218) | N/A |
 
 ### 🏢 Development Lottery Board (DLB)
 
