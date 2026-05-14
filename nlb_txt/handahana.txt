@@ -217,3 +217,4 @@ Draw,Date,Letter,Numbers...
 1495,Monday May 11, 2026,,21,27,35,61
 1496,Tuesday May 12, 2026,,16,23,28,29
 1497,Wednesday May 13, 2026,,11,16,39,58
+1498,Thursday May 14, 2026,,6,23,36,40
