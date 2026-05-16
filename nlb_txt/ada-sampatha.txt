@@ -212,3 +212,4 @@ Draw,Date,Letter,Numbers...
 0763,Wednesday May 13, 2026,G,1,7,0,1,7,3,0,1,7
 0764,Thursday May 14, 2026,W,9,2,4,9,2,7,4,9,2
 0765,Friday May 15, 2026,H,1,4,5,1,4,3,5,1,4
+0766,Saturday May 16, 2026,L,2,6,2,2,6,8,2,2,6
