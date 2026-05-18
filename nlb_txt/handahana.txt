@@ -221,3 +221,4 @@ Draw,Date,Letter,Numbers...
 1499,Friday May 15, 2026,,22,31,49,51
 1500,Saturday May 16, 2026,,03,49,57,62
 1501,Sunday May 17, 2026,,04,10,32,56
+1502,Monday May 18, 2026,,13,38,61,62

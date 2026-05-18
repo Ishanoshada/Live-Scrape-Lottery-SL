@@ -212,3 +212,4 @@ Draw,Date,Letter,Numbers...
 0458,Friday May 15, 2026,L,7,1,7,4
 0459,Saturday May 16, 2026,S,5,7,8,4
 0460,Sunday May 17, 2026,C,0,2,1,2,0,1,1,6
+0461,Monday May 18, 2026,E,3,6,1,7
