@@ -926,3 +926,4 @@ Draw,Date,Letter,Numbers...
 995,2026-May-16 Saturday,,24,29,49
 996,2026-May-17 Sunday,,12,17,37
 997,2026-May-18 Monday,,03,10,47
+998,2026-May-19 Tuesday,,18,36,49
