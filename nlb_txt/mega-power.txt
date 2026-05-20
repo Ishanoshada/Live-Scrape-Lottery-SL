@@ -223,3 +223,4 @@ Draw,Date,Letter,Numbers...
 2540,Sunday May 17, 2026,J,14,19,24,46,79
 2541,Monday May 18, 2026,Q,16,16,41,46,80
 2542,Tuesday May 19, 2026,I,11,8,23,26,33
+2543,Wednesday May 20, 2026,X,08,05,10,25,40
