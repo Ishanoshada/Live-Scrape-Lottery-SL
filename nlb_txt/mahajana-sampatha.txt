@@ -224,3 +224,4 @@ Draw,Date,Letter,Numbers...
 6193,Monday May 18, 2026,E,6,3,2,0,5,8
 6194,Tuesday May 19, 2026,E,4,7,6,8,6,4
 6195,Wednesday May 20, 2026,G,0,3,9,0,6,2
+6196,Thursday May 21, 2026,Q,0,9,6,1,5,0

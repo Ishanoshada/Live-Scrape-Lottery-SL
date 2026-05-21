@@ -224,3 +224,4 @@ Draw,Date,Letter,Numbers...
 0309,Monday May 18, 2026,,03,24,62,1,7,5,7
 0310,Tuesday May 19, 2026,,18,22,37,8,5,4,3
 0311,Wednesday May 20, 2026,,23,42,56,1,9,2,3
+0312,Thursday May 21, 2026,,38,51,53,5,0,2,3

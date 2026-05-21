@@ -224,3 +224,4 @@ Draw,Date,Letter,Numbers...
 1502,Monday May 18, 2026,,13,38,61,62
 1503,Tuesday May 19, 2026,,14,15,31,61
 1504,Wednesday May 20, 2026,,17,25,38,50
+1505,Thursday May 21, 2026,,12,17,18,46
