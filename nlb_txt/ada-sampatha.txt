@@ -218,3 +218,4 @@ Draw,Date,Letter,Numbers...
 0769,Tuesday May 19, 2026,E,6,4,8,6,4,6,8,6,4
 0770,Wednesday May 20, 2026,G,6,2,0,6,2,9,0,6,2
 0771,Thursday May 21, 2026,Q,5,0,1,5,0,6,1,5,0
+0772,Friday May 22, 2026,A,5,5,4,5,5,1,4,5,5
