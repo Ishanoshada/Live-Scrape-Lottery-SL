@@ -82,7 +82,7 @@ Developed and maintained by **Ishan Oshada**.
 
 ## 📊 Data Summary
 
-> **Last Updated (Sri Lanka Time):** `2026-05-22 02:52:27 AM`
+> **Last Updated (Sri Lanka Time):** `2026-05-22 08:05:26 AM`
 
 ### National Lottery Board (NLB)
 | Lottery Name | File Link | Data Length | File Size |
@@ -116,7 +116,7 @@ Developed and maintained by **Ishan Oshada**.
 
 ## 📈 Lottery Data Analytic Report
 
-> **Analytic Report Last Updated:** `2026-05-22 02:52:27 AM` (Sri Lanka Time)
+> **Analytic Report Last Updated:** `2026-05-22 08:05:26 AM` (Sri Lanka Time)
 >
 > *This table is auto-generated based on the current dataset. It displays the top 5 most frequently drawn numbers and letters (Hits / Total Draws).*
 
@@ -127,7 +127,7 @@ Developed and maintained by **Ishan Oshada**.
 | **Ada Sampatha** | **6** (86/219)<br>**5** (81/219)<br>**2** (80/219)<br>**0** (77/219)<br>**7** (76/219) | **N** (14/219)<br>**D** (14/219)<br>**J** (14/219)<br>**Q** (13/219)<br>**Y** (12/219) |
 | **Dhana Nidhanaya** | **28** (22/227)<br>**9** (21/227)<br>**6** (19/227)<br>**7** (18/227)<br>**16** (18/227) | **U** (14/227)<br>**W** (13/227)<br>**T** (12/227)<br>**M** (12/227)<br>**Z** (11/227) |
 | **Govisetha** | **44** (19/226)<br>**19** (17/226)<br>**55** (17/226)<br>**23** (16/226)<br>**58** (16/226) | **P** (13/226)<br>**D** (11/226)<br>**W** (11/226)<br>**O** (11/226)<br>**K** (11/226) |
-| **Handahana** | **58** (22/226)<br>**61** (22/226)<br>**21** (21/226)<br>**6** (21/226)<br>**46** (21/226) | N/A |
+| **Handahana** | **58** (22/226)<br>**61** (22/226)<br>**21** (21/226)<br>**46** (21/226)<br>**6** (21/226) | N/A |
 | **Mahajana Sampatha** | **6** (114/226)<br>**2** (112/226)<br>**3** (110/226)<br>**5** (110/226)<br>**1** (110/226) | **D** (14/226)<br>**J** (14/226)<br>**N** (13/226)<br>**Q** (13/226)<br>**Y** (12/226) |
 | **Mega Power** | **3** (27/226)<br>**11** (27/226)<br>**6** (26/226)<br>**13** (26/226)<br>**22** (25/226) | **V** (17/226)<br>**T** (13/226)<br>**K** (13/226)<br>**U** (13/226)<br>**J** (12/226) |
 | **Nlb Jaya** | **5** (93/217)<br>**3** (86/217)<br>**0** (84/217)<br>**2** (81/217)<br>**1** (78/217) | **P** (14/217)<br>**T** (14/217)<br>**M** (13/217)<br>**I** (13/217)<br>**G** (13/217) |
