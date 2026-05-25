@@ -228,3 +228,4 @@ Draw,Date,Letter,Numbers...
 4439,Friday May 22, 2026,G,10,38,57,79
 4440,Saturday May 23, 2026,B,45,47,60,77
 4441,Sunday May 24, 2026,O,10,22,40,50
+4442,Monday May 25, 2026,J,10,58,64,65
