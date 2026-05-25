@@ -82,7 +82,7 @@ Developed and maintained by **Ishan Oshada**.
 
 ## 📊 Data Summary
 
-> **Last Updated (Sri Lanka Time):** `2026-05-25 08:09:03 AM`
+> **Last Updated (Sri Lanka Time):** `2026-05-25 02:21:45 PM`
 
 ### National Lottery Board (NLB)
 | Lottery Name | File Link | Data Length | File Size |
@@ -116,7 +116,7 @@ Developed and maintained by **Ishan Oshada**.
 
 ## 📈 Lottery Data Analytic Report
 
-> **Analytic Report Last Updated:** `2026-05-25 08:09:03 AM` (Sri Lanka Time)
+> **Analytic Report Last Updated:** `2026-05-25 02:21:45 PM` (Sri Lanka Time)
 >
 > *This table is auto-generated based on the current dataset. It displays the top 5 most frequently drawn numbers and letters (Hits / Total Draws).*
 
@@ -129,7 +129,7 @@ Developed and maintained by **Ishan Oshada**.
 | **Govisetha** | **44** (19/229)<br>**19** (17/229)<br>**10** (17/229)<br>**55** (17/229)<br>**23** (16/229) | **P** (13/229)<br>**O** (12/229)<br>**D** (11/229)<br>**W** (11/229)<br>**K** (11/229) |
 | **Handahana** | **58** (22/229)<br>**61** (22/229)<br>**6** (22/229)<br>**21** (21/229)<br>**46** (21/229) | N/A |
 | **Mahajana Sampatha** | **6** (114/229)<br>**2** (113/229)<br>**1** (113/229)<br>**3** (112/229)<br>**5** (112/229) | **D** (14/229)<br>**J** (14/229)<br>**N** (13/229)<br>**Q** (13/229)<br>**Y** (12/229) |
-| **Mega Power** | **3** (28/229)<br>**11** (28/229)<br>**6** (26/229)<br>**22** (26/229)<br>**13** (26/229) | **V** (17/229)<br>**T** (13/229)<br>**K** (13/229)<br>**U** (13/229)<br>**J** (12/229) |
+| **Mega Power** | **3** (28/229)<br>**11** (28/229)<br>**22** (26/229)<br>**6** (26/229)<br>**13** (26/229) | **V** (17/229)<br>**T** (13/229)<br>**K** (13/229)<br>**U** (13/229)<br>**J** (12/229) |
 | **Nlb Jaya** | **5** (95/220)<br>**3** (87/220)<br>**0** (87/220)<br>**2** (82/220)<br>**1** (79/220) | **P** (14/220)<br>**T** (14/220)<br>**M** (13/220)<br>**I** (13/220)<br>**G** (13/220) |
 | **Suba Dawasak** | **3** (97/229)<br>**1** (92/229)<br>**4** (90/229)<br>**9** (85/229)<br>**5** (84/229) | N/A |
 
