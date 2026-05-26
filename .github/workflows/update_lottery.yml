@@ -3,7 +3,7 @@ name: Update Lottery Data
 on:
   schedule:
     # සෑම පැය 5කට වරක් (විනාඩි 300කට වරක්) ක්‍රියාත්මක වේ. 
-    - cron: '0 */5 * * *'
+    - cron: '30 17 * * *'
   workflow_dispatch: # අවශ්‍ය විටක manual run කිරීමට
 
 jobs:
