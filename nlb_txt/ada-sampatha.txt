@@ -223,3 +223,4 @@ Draw,Date,Letter,Numbers...
 0774,Sunday May 24, 2026,A,3,0,1,3,0,8,1,3,0
 0775,Monday May 25, 2026,F,1,1,9,1,1,1,9,1,1
 0776,Tuesday May 26, 2026,T,2,8,8,2,8,1,8,2,8
+0777,Wednesday May 27, 2026,R,5,3,3,5,3,3,3,5,3

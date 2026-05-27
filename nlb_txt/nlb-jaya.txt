@@ -221,3 +221,4 @@ Draw,Date,Letter,Numbers...
 0467,Sunday May 24, 2026,H,0,6,8,0,2,5,0,6
 0468,Monday May 25, 2026,C,5,0,9,4
 0469,Tuesday May 26, 2026,X,0,7,9,4
+0470,Wednesday May 27, 2026,Y,7,4,8,4
