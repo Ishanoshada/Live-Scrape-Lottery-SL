@@ -1757,3 +1757,4 @@ Draw,Date,Letter,Numbers...
 4886,2026-May-25 Monday,,16,35,51,60
 4887,2026-May-26 Tuesday,,17,33,49,50
 4888,2026-May-27 Wednesday,,02,38,41,49
+4889,2026-May-28 Thursday,,02,16,18,34

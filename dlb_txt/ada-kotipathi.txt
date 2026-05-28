@@ -1750,3 +1750,4 @@ Draw,Date,Letter,Numbers...
 3000,2026-May-25 Monday,Q,10,20,33,70
 3001,2026-May-26 Tuesday,X,33,44,58,61
 3002,2026-May-27 Wednesday,F,10,50,63,69
+3003,2026-May-28 Thursday,M,08,36,45,72
