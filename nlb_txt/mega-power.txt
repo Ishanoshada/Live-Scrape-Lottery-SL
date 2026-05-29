@@ -231,3 +231,5 @@ Draw,Date,Letter,Numbers...
 2548,Monday May 25, 2026,T,25,07,31,48,61
 2549,Tuesday May 26, 2026,Y,25,24,32,56,67
 2550,Wednesday May 27, 2026,W,11,16,34,60,74
+2551,Thursday May 28, 2026,K,5,27,47,61,70
+2552,Friday May 29, 2026,N,15,13,29,41,43

@@ -231,3 +231,5 @@ Draw,Date,Letter,Numbers...
 1509,Monday May 25, 2026,,04,23,33,55
 1510,Tuesday May 26, 2026,,14,17,27,55
 1511,Wednesday May 27, 2026,,05,21,25,48
+1512,Thursday May 28, 2026,,8,18,47,54
+1513,Friday May 29, 2026,,3,11,43,56
