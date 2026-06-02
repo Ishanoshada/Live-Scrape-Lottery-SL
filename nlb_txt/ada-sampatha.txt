@@ -227,3 +227,4 @@ Draw,Date,Letter,Numbers...
 0778,Thursday May 28, 2026,R,1,7,4,1,7,7,4,1,7
 0779,Friday May 29, 2026,V,1,1,4,1,1,7,4,1,1
 0780,Monday June 01, 2026,C,1,6,7,1,6,3,7,1,6
+0781,Tuesday June 02, 2026,M,6,7,6,6,7,5,6,6,7

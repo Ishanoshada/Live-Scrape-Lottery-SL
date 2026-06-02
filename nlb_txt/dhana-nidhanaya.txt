@@ -235,3 +235,4 @@ Draw,Date,Letter,Numbers...
 2233,Thursday May 28, 2026,U,23,63,68,69
 2234,Friday May 29, 2026,S,7,26,55,81
 2235,Monday June 01, 2026,A,52,63,69,73
+2236,Tuesday June 02, 2026,I,39,51,59,75

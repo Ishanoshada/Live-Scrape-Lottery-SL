@@ -234,3 +234,4 @@ Draw,Date,Letter,Numbers...
 4445,Thursday May 28, 2026,T,27,33,43,70
 4446,Friday May 29, 2026,A,41,50,62,76
 4447,Monday June 01, 2026,U,01,10,55,77
+4448,Tuesday June 02, 2026,M,05,47,60,68
