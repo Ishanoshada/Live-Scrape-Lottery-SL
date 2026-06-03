@@ -235,3 +235,4 @@ Draw,Date,Letter,Numbers...
 6204,Friday May 29, 2026,V,5,1,7,4,1,1
 6205,Monday June 01, 2026,C,4,1,3,7,1,6
 6206,Tuesday June 02, 2026,M,6,2,5,6,6,7
+6207,Wednesday June 03, 2026,M,0,5,0,7,5,5

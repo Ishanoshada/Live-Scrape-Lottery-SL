@@ -235,3 +235,4 @@ Draw,Date,Letter,Numbers...
 2552,Friday May 29, 2026,N,15,13,29,41,43
 2553,Monday June 01, 2026,X,12,11,45,46,80
 2554,Tuesday June 02, 2026,D,02,22,35,65,77
+2555,Wednesday June 03, 2026,J,16,01,33,43,68
