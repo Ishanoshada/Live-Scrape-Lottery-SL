@@ -236,3 +236,4 @@ Draw,Date,Letter,Numbers...
 1514,Monday June 01, 2026,,20,43,54,56
 1515,Tuesday June 02, 2026,,01,24,33,37
 1516,Wednesday June 03, 2026,,02,09,10,56
+1517,Thursday June 04, 2026,,6,43,55,59
