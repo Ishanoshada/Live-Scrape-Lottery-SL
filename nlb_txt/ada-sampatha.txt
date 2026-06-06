@@ -231,3 +231,4 @@ Draw,Date,Letter,Numbers...
 0782,Wednesday June 03, 2026,M,5,5,7,5,5,0,7,5,5
 0783,Thursday June 04, 2026,R,0,4,4,0,4,6,4,0,4
 0784,Friday June 05, 2026,J,7,5,5,7,5,0,5,7,5
+0785,Saturday June 06, 2026,M,7,6,3,7,6,0,3,7,6
