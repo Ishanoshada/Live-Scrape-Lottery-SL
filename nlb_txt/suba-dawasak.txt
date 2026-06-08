@@ -239,3 +239,5 @@ Draw,Date,Letter,Numbers...
 0324,Thursday June 04, 2026,,40,43,66,4,9,5,5
 0325,Friday June 05, 2026,,05,59,66,8,5,4,1
 0326,Saturday June 06, 2026,,6,26,54,3,7,9,4
+0327,Sunday June 07, 2026,,4,22,47,8,7,6,1
+0328,Monday June 08, 2026,,15,35,45,7,0,6,3

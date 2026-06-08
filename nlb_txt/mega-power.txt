@@ -239,3 +239,5 @@ Draw,Date,Letter,Numbers...
 2556,Thursday June 04, 2026,S,7,20,46,55,63
 2557,Friday June 05, 2026,R,02,01,55,62,80
 2558,Saturday June 06, 2026,V,5,23,33,53,64
+2559,Sunday June 07, 2026,R,8,23,47,70,71
+2560,Monday June 08, 2026,J,11,07,08,21,35
