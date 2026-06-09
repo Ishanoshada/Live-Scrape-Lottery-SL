@@ -241,3 +241,4 @@ Draw,Date,Letter,Numbers...
 2558,Saturday June 06, 2026,V,5,23,33,53,64
 2559,Sunday June 07, 2026,R,8,23,47,70,71
 2560,Monday June 08, 2026,J,11,07,08,21,35
+2561,Tuesday June 09, 2026,M,21,34,40,75,76
