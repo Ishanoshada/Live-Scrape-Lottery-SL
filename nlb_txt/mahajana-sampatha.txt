@@ -246,3 +246,4 @@ Draw,Date,Letter,Numbers...
 6215,Thursday June 11, 2026,K,5,2,3,3,5,5
 6216,Friday June 12, 2026,F,4,8,1,9,7,0
 6217,Saturday June 13, 2026,Q,4,0,3,5,5,1
+6218,Sunday June 14, 2026,V,6,9,0,6,9,9

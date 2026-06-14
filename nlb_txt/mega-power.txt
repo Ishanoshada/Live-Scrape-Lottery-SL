@@ -246,3 +246,4 @@ Draw,Date,Letter,Numbers...
 2563,Thursday June 11, 2026,Q,6,3,24,55,77
 2564,Friday June 12, 2026,U,19,11,18,36,73
 2565,Saturday June 13, 2026,Z,15,07,09,17,19
+2566,Sunday June 14, 2026,U,15,01,04,30,72

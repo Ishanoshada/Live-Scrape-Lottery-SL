@@ -239,3 +239,4 @@ Draw,Date,Letter,Numbers...
 0790,Thursday June 11, 2026,K,5,5,3,5,5,3,3,5,5
 0791,Friday June 12, 2026,F,7,0,9,7,0,1,9,7,0
 0792,Saturday June 13, 2026,Q,5,1,5,5,1,3,5,5,1
+0793,Sunday June 14, 2026,V,9,9,6,9,9,0,6,9,9

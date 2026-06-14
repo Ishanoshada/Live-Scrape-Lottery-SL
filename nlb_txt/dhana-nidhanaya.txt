@@ -247,3 +247,4 @@ Draw,Date,Letter,Numbers...
 2245,Thursday June 11, 2026,J,45,52,56,78
 2246,Friday June 12, 2026,U,18,36,76,78
 2247,Saturday June 13, 2026,S,04,37,53,67
+2248,Sunday June 14, 2026,Q,10,36,37,65,1,1,0,2
