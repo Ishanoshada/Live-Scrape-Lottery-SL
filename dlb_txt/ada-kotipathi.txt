@@ -1767,3 +1767,5 @@ Draw,Date,Letter,Numbers...
 3017,2026-Jun-13 Saturday,N,25,31,46,49
 3018,2026-Jun-14 Sunday,O,15,26,47,66
 3019,2026-Jun-15 Monday,N,21,25,43,75
+3020,2026-Jun-16 Tuesday,N,01,16,49,75
+3021,2026-Jun-17 Wednesday,K,24,36,49,68

@@ -952,3 +952,5 @@ Draw,Date,Letter,Numbers...
 1021,2026-Jun-13 Saturday,,03,05,38
 1022,2026-Jun-14 Sunday,,15,17,38
 1023,2026-Jun-15 Monday,,06,32,34
+1024,2026-Jun-16 Tuesday,,01,05,49
+1025,2026-Jun-17 Wednesday,,09,15,26

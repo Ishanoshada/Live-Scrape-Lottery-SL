@@ -1768,3 +1768,5 @@ Draw,Date,Letter,Numbers...
 3191,2026-Jun-13 Saturday,I,02,25,30,76
 3192,2026-Jun-14 Sunday,I,33,60,63,64
 3193,2026-Jun-15 Monday,V,17,31,53,57
+3194,2026-Jun-16 Tuesday,S,22,38,48,70
+3195,2026-Jun-17 Wednesday,E,09,12,33,41

@@ -238,3 +238,6 @@ Draw,Date,Letter,Numbers...
 0484,Friday June 12, 2026,J,6,7,2,5
 0485,Saturday June 13, 2026,T,0,2,5,3
 0486,Sunday June 14, 2026,A,0,4,4,4,3,5,0,6
+0487,Monday June 15, 2026,G,5,9,5,9
+0488,Tuesday June 16, 2026,R,7,6,0,5
+0489,Wednesday June 17, 2026,C,3,8,8,3

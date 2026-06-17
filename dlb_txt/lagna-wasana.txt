@@ -1774,3 +1774,5 @@ Draw,Date,Letter,Numbers...
 4903,2026-Jun-13 Saturday,,06,07,26,45
 4904,2026-Jun-14 Sunday,,06,09,30,38
 4905,2026-Jun-15 Monday,,07,15,23,60
+4906,2026-Jun-16 Tuesday,,28,29,38,49
+4907,2026-Jun-17 Wednesday,,13,31,41,51
