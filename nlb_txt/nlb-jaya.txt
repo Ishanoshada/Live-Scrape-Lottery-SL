@@ -241,3 +241,4 @@ Draw,Date,Letter,Numbers...
 0487,Monday June 15, 2026,G,5,9,5,9
 0488,Tuesday June 16, 2026,R,7,6,0,5
 0489,Wednesday June 17, 2026,C,3,8,8,3
+0490,Thursday June 18, 2026,G,7,7,9,5

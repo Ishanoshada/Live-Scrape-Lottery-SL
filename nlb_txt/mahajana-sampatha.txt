@@ -250,3 +250,4 @@ Draw,Date,Letter,Numbers...
 6219,Monday June 15, 2026,C,7,4,4,2,0,9
 6220,Tuesday June 16, 2026,Y,1,6,8,0,2,5
 6221,Wednesday June 17, 2026,G,6,2,2,8,9,9
+6222,Thursday June 18, 2026,Z,6,7,3,1,2,2

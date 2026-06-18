@@ -251,3 +251,4 @@ Draw,Date,Letter,Numbers...
 2249,Monday June 15, 2026,I,05,18,44,77
 2250,Tuesday June 16, 2026,X,61,70,72,74
 2251,Wednesday June 17, 2026,F,08,47,56,72
+2252,Thursday June 18, 2026,K,09,19,73,76
