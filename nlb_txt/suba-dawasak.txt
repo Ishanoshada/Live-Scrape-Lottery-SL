@@ -253,3 +253,4 @@ Draw,Date,Letter,Numbers...
 0338,Thursday June 18, 2026,,03,08,62,4,1,9,0
 0339,Friday June 19, 2026,,01,16,21,2,0,0,5
 0340,Saturday June 20, 2026,,05,13,26,3,1,4,1
+0341,Sunday June 21, 2026,,26,39,54,2,2,3,0
