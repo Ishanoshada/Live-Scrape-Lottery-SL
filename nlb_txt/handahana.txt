@@ -254,3 +254,4 @@ Draw,Date,Letter,Numbers...
 1532,Friday June 19, 2026,,33,40,41,50
 1533,Saturday June 20, 2026,,09,18,34,39
 1534,Sunday June 21, 2026,,5,31,43,58
+1535,Monday June 22, 2026,,25,37,45,58
