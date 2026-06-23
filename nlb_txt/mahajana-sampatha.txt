@@ -255,3 +255,4 @@ Draw,Date,Letter,Numbers...
 6224,Saturday June 20, 2026,W,1,8,8,3,2,2
 6225,Sunday June 21, 2026,Z,2,3,5,6,4,8
 6226,Monday June 22, 2026,T,9,8,5,7,2,4
+6227,Tuesday June 23, 2026,Q,2,8,6,5,7,2
