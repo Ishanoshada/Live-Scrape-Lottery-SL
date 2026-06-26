@@ -258,3 +258,4 @@ Draw,Date,Letter,Numbers...
 2575,Tuesday June 23, 2026,T,14,11,35,45,49
 2576,Wednesday June 24, 2026,J,14,30,37,42,72
 2577,Thursday June 25, 2026,U,16,03,59,72,77
+2578,Friday June 26, 2026,U,04,49,50,55,70
