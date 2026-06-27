@@ -252,3 +252,4 @@ Draw,Date,Letter,Numbers...
 0803,Wednesday June 24, 2026,R,6,9,9,6,9,8,9,6,9
 0804,Thursday June 25, 2026,G,8,2,7,8,2,6,7,8,2
 0805,Friday June 26, 2026,G,9,6,1,9,6,6,1,9,6
+0806,Saturday June 27, 2026,R,3,8,4,3,8,4,4,3,8
