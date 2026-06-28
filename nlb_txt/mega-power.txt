@@ -260,3 +260,4 @@ Draw,Date,Letter,Numbers...
 2577,Thursday June 25, 2026,U,16,03,59,72,77
 2578,Friday June 26, 2026,U,04,49,50,55,70
 2579,Saturday June 27, 2026,T,12,1,6,32,74
+2580,Sunday June 28, 2026,V,11,10,17,27,63

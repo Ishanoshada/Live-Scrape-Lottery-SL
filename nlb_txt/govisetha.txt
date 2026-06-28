@@ -260,3 +260,4 @@ Draw,Date,Letter,Numbers...
 4471,Thursday June 25, 2026,V,07,13,67,80
 4472,Friday June 26, 2026,D,13,29,61,71
 4473,Saturday June 27, 2026,Q,4,8,10,22
+4474,Sunday June 28, 2026,K,28,39,69,79
