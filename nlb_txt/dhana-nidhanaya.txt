@@ -262,3 +262,4 @@ Draw,Date,Letter,Numbers...
 2260,Friday June 26, 2026,W,17,46,72,79
 2261,Saturday June 27, 2026,E,33,43,59,81
 2262,Sunday June 28, 2026,D,13,25,69,82,3,5,7,5
+2263,Monday June 29, 2026,F,36,39,52,58
