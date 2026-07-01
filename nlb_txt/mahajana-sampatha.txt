@@ -262,3 +262,5 @@ Draw,Date,Letter,Numbers...
 6231,Saturday June 27, 2026,R,8,7,4,4,3,8
 6232,Sunday June 28, 2026,G,5,6,7,1,8,8
 6233,Monday June 29, 2026,N,7,9,8,4,5,3
+6234,Tuesday June 30, 2026,Z,3,5,7,8,8,2
+6235,Wednesday July 01, 2026,C,4,4,4,7,2,7

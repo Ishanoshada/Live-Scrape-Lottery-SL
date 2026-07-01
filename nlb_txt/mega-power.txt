@@ -262,3 +262,5 @@ Draw,Date,Letter,Numbers...
 2579,Saturday June 27, 2026,T,12,1,6,32,74
 2580,Sunday June 28, 2026,V,11,10,17,27,63
 2581,Monday June 29, 2026,A,26,24,30,32,75
+2582,Tuesday June 30, 2026,F,12,04,25,29,50
+2583,Wednesday July 01, 2026,T,01,12,48,51,76

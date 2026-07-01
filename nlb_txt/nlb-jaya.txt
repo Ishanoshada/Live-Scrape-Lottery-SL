@@ -253,3 +253,5 @@ Draw,Date,Letter,Numbers...
 0499,Saturday June 27, 2026,G,2,5,1,4
 0500,Sunday June 28, 2026,K,4,5,0,5,1,3,6,6
 0501,Monday June 29, 2026,B,0,9,4,7
+0502,Tuesday June 30, 2026,E,2,7,5,2
+0503,Wednesday July 01, 2026,T,6,3,6,7
