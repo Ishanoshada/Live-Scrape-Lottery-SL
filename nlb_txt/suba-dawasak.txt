@@ -264,3 +264,4 @@ Draw,Date,Letter,Numbers...
 0349,Monday June 29, 2026,,08,45,50,5,6,1,4
 0350,Tuesday June 30, 2026,,01,47,66,7,8,0,6
 0351,Wednesday July 01, 2026,,25,37,39,2,1,4,4
+0352,Thursday July 02, 2026,,50,56,58,6,5,9,4

@@ -1783,3 +1783,4 @@ Draw,Date,Letter,Numbers...
 3033,2026-Jun-29 Monday,Q,12,15,54,66
 3034,2026-Jun-30 Tuesday,E,16,38,61,71
 3035,2026-Jul-01 Wednesday,E,14,18,26,50
+3036,2026-Jul-02 Thursday,I,23,25,32,60

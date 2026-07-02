@@ -255,3 +255,4 @@ Draw,Date,Letter,Numbers...
 0501,Monday June 29, 2026,B,0,9,4,7
 0502,Tuesday June 30, 2026,E,2,7,5,2
 0503,Wednesday July 01, 2026,T,6,3,6,7
+0504,Thursday July 02, 2026,L,0,2,5,7
