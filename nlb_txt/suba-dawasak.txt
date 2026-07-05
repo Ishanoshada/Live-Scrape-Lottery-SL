@@ -267,3 +267,4 @@ Draw,Date,Letter,Numbers...
 0352,Thursday July 02, 2026,,50,56,58,6,5,9,4
 0353,Friday July 03, 2026,,11,24,59,5,3,8,5
 0354,Saturday July 04, 2026,,19,22,54,6,0,6,9
+0355,Sunday July 05, 2026,,10,18,64,5,0,5,5
