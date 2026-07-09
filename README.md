@@ -82,7 +82,7 @@ Developed and maintained by **Ishan Oshada**.
 
 ## 📊 Data Summary
 
-> **Last Updated (Sri Lanka Time):** `2026-07-10 12:37:35 AM`
+> **Last Updated (Sri Lanka Time):** `2026-07-10 01:22:03 AM`
 
 ### National Lottery Board (NLB)
 | Lottery Name | File Link | Data Length | File Size |
@@ -116,7 +116,7 @@ Developed and maintained by **Ishan Oshada**.
 
 ## 📈 Lottery Data Analytic Report
 
-> **Analytic Report Last Updated:** `2026-07-10 12:37:35 AM` (Sri Lanka Time)
+> **Analytic Report Last Updated:** `2026-07-10 01:22:03 AM` (Sri Lanka Time)
 >
 > *This table is auto-generated based on the current dataset. It displays the top 5 most frequently drawn numbers and letters (Hits / Total Draws).*
 
@@ -143,5 +143,5 @@ Developed and maintained by **Ishan Oshada**.
 | **Lagna Wasana** | **5** (137/1799)<br>**28** (136/1799)<br>**36** (134/1799)<br>**25** (134/1799)<br>**23** (132/1799) | N/A |
 | **Sasiri** | **9** (73/977)<br>**20** (72/977)<br>**22** (71/977)<br>**26** (71/977)<br>**5** (69/977) | N/A |
 | **Super Ball** | **52** (110/1793)<br>**45** (110/1793)<br>**29** (109/1793)<br>**74** (107/1793)<br>**43** (107/1793) | **I** (90/1793)<br>**T** (81/1793)<br>**D** (81/1793)<br>**V** (80/1793)<br>**A** (79/1793) |
-| **Supiri Dhana Sampatha** | **2** (481/951)<br>**0** (476/951)<br>**3** (476/951)<br>**7** (468/951)<br>**5** (452/951) | **V** (49/951)<br>**K** (46/951)<br>**T** (44/951)<br>**S** (43/951)<br>**J** (43/951) |
+| **Supiri Dhana Sampatha** | **2** (481/951)<br>**3** (476/951)<br>**0** (476/951)<br>**7** (468/951)<br>**5** (452/951) | **V** (49/951)<br>**K** (46/951)<br>**T** (44/951)<br>**S** (43/951)<br>**J** (43/951) |
 
