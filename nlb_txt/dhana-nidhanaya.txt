@@ -275,3 +275,4 @@ Draw,Date,Letter,Numbers...
 2273,Thursday July 09, 2026,Q,19,39,75,80
 2274,Friday July 10, 2026,H,05,15,52,81
 2275,Saturday July 11, 2026,N,06,30,35,45
+2276,Sunday July 12, 2026,R,36,48,76,80,1,6,8,6
