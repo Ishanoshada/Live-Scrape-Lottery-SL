@@ -275,3 +275,4 @@ Draw,Date,Letter,Numbers...
 2592,Friday July 10, 2026,L,20,29,40,52,71
 2593,Saturday July 11, 2026,Z,07,20,25,39,61
 2594,Sunday July 12, 2026,S,7,22,24,35,67
+2595,Monday July 13, 2026,X,20,31,37,55,71
