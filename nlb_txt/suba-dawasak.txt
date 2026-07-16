@@ -278,3 +278,4 @@ Draw,Date,Letter,Numbers...
 0363,Monday July 13, 2026,,08,18,39,2,2,8,9
 0364,Tuesday July 14, 2026,,06,08,11,9,6,8,3
 0365,Wednesday July 15, 2026,,29,49,65,8,9,2,4
+0366,Thursday July 16, 2026,,2,16,40,8,3,2,3
