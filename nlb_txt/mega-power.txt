@@ -279,3 +279,4 @@ Draw,Date,Letter,Numbers...
 2596,Tuesday July 14, 2026,T,18,10,46,52,55
 2597,Wednesday July 15, 2026,P,13,18,49,55,59
 2598,Thursday July 16, 2026,L,5,8,9,51,64
+2599,Friday July 17, 2026,D,16,12,28,65,78
