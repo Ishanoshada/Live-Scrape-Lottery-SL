@@ -273,3 +273,4 @@ Draw,Date,Letter,Numbers...
 0519,Friday July 17, 2026,T,1,8,5,1
 0520,Saturday July 18, 2026,B,1,5,5,1
 0521,Sunday July 19, 2026,S,3,9,9,1,0,6,9,9
+0522,Monday July 20, 2026,S,1,2,7,3
