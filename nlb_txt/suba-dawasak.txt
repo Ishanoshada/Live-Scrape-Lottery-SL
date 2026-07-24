@@ -285,3 +285,5 @@ Draw,Date,Letter,Numbers...
 0370,Monday July 20, 2026,,06,12,52,7,6,3,9
 0371,Tuesday July 21, 2026,,11,53,65,9,2,9,4
 0372,Wednesday July 22, 2026,,18,27,43,6,6,0,7
+0373,Thursday July 23, 2026,,16,27,40,2,7,0,1
+0374,Friday July 24, 2026,,9,51,52,4,2,9,5

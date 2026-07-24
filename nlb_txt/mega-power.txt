@@ -285,3 +285,5 @@ Draw,Date,Letter,Numbers...
 2602,Monday July 20, 2026,N,03,12,14,21,25
 2603,Tuesday July 21, 2026,T,16,16,26,53,75
 2604,Wednesday July 22, 2026,P,26,46,48,52,74
+2605,Thursday July 23, 2026,T,04,08,22,28,48
+2606,Friday July 24, 2026,V,6,7,10,36,38
