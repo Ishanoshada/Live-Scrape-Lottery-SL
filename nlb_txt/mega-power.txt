@@ -287,3 +287,4 @@ Draw,Date,Letter,Numbers...
 2604,Wednesday July 22, 2026,P,26,46,48,52,74
 2605,Thursday July 23, 2026,T,04,08,22,28,48
 2606,Friday July 24, 2026,V,6,7,10,36,38
+2607,Saturday July 25, 2026,H,22,13,62,70,71
