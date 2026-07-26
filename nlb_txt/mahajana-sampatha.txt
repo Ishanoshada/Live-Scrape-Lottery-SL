@@ -288,3 +288,4 @@ Draw,Date,Letter,Numbers...
 6257,Thursday July 23, 2026,L,8,6,1,2,9,2
 6258,Friday July 24, 2026,Y,1,5,5,2,0,4
 6259,Saturday July 25, 2026,D,2,9,5,9,7,1
+6260,Sunday July 26, 2026,R,7,3,4,3,1,6
