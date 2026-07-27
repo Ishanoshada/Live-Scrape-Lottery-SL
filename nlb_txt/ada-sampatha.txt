@@ -282,3 +282,4 @@ Draw,Date,Letter,Numbers...
 0833,Friday July 24, 2026,Y,0,4,2,0,4,5,2,0,4
 0834,Saturday July 25, 2026,D,7,1,9,7,1,5,9,7,1
 0835,Sunday July 26, 2026,R,1,6,3,1,6,4,3,1,6
+0836,Monday July 27, 2026,D,9,3,5,9,3,0,5,9,3
