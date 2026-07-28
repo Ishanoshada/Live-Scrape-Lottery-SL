@@ -994,3 +994,4 @@ Draw,Date,Letter,Numbers...
 1063,2026-Jul-25 Saturday,,22,24,31
 1064,2026-Jul-26 Sunday,,17,30,40
 1065,2026-Jul-27 Monday,,40,48,50
+1066,2026-Jul-28 Tuesday,,04,13,28
