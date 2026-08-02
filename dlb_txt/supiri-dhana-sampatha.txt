@@ -973,3 +973,4 @@ Draw,Date,Letter,Numbers...
 972,2026-Jul-30 Thursday,W,0,3,0,8,9,0
 973,2026-Jul-31 Friday,C,9,6,4,4,2,1
 974,2026-Aug-01 Saturday,V,9,8,2,4,7,7
+975,2026-Aug-02 Sunday,B,6,0,2,9,8,5
