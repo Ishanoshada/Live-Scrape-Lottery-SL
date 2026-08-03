@@ -295,3 +295,5 @@ Draw,Date,Letter,Numbers...
 0380,Thursday July 30, 2026,,20,24,27,3,5,9,1
 0381,Friday July 31, 2026,,39,46,66,2,0,2,9
 0382,Saturday August 01, 2026,,14,29,34,8,5,8,9
+0383,Sunday August 02, 2026,,18,36,55,3,6,3,7
+0384,Monday August 03, 2026,,02,49,56,9,7,0,4

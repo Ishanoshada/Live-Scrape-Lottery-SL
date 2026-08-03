@@ -286,3 +286,5 @@ Draw,Date,Letter,Numbers...
 0532,Thursday July 30, 2026,Y,4,2,4,7
 0533,Friday July 31, 2026,D,2,4,2,8
 0534,Saturday August 01, 2026,N,6,0,3,0
+0535,Sunday August 02, 2026,V,7,2,0,5,3,7,9,0
+0536,Monday August 03, 2026,K,5,8,3,7

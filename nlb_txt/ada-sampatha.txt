@@ -289,3 +289,4 @@ Draw,Date,Letter,Numbers...
 0840,Friday July 31, 2026,E,6,4,8,6,4,6,8,6,4
 0841,Saturday August 01, 2026,R,6,6,4,6,6,3,4,6,6
 0842,Sunday August 02, 2026,J,7,0,5,7,0,5,5,7,0
+0843,Monday August 03, 2026,H,2,2,3,2,2,7,3,2,2
