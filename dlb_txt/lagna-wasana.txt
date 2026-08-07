@@ -1825,3 +1825,5 @@ Draw,Date,Letter,Numbers...
 4954,2026-Aug-03 Monday,,06,22,30,31
 4955,2026-Aug-04 Tuesday,,01,12,22,55
 4956,2026-Aug-05 Wednesday,,35,41,43,52
+4957,2026-Aug-06 Thursday,,18,30,45,59
+4958,2026-Aug-07 Friday,,02,20,32,49

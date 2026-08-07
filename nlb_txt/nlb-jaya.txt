@@ -290,3 +290,5 @@ Draw,Date,Letter,Numbers...
 0536,Monday August 03, 2026,K,5,8,3,7
 0537,Tuesday August 04, 2026,I,5,2,8,1
 0538,Wednesday August 05, 2026,O,4,0,4,8
+0539,Thursday August 06, 2026,B,3,0,3,2
+0540,Friday August 07, 2026,H,3,4,0,6

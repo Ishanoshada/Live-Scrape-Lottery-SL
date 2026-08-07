@@ -299,3 +299,5 @@ Draw,Date,Letter,Numbers...
 2616,Monday August 03, 2026,L,23,04,28,39,58
 2617,Tuesday August 04, 2026,L,23,13,26,36,57
 2618,Wednesday August 05, 2026,M,18,07,21,23,50
+2619,Thursday August 06, 2026,S,07,26,58,70,76
+2620,Friday August 07, 2026,G,05,29,35,54,67

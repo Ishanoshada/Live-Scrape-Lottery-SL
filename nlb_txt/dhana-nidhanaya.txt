@@ -300,3 +300,5 @@ Draw,Date,Letter,Numbers...
 2298,Monday August 03, 2026,K,18,30,55,71
 2299,Tuesday August 04, 2026,P,25,66,73,80
 2300,Wednesday August 05, 2026,Y,38,56,69,80
+2301,Thursday August 06, 2026,L,04,30,63,77
+2302,Friday August 07, 2026,Z,13,30,31,65

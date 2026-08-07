@@ -299,3 +299,5 @@ Draw,Date,Letter,Numbers...
 1577,Monday August 03, 2026,,47,55,59,60
 1578,Tuesday August 04, 2026,,4,9,18,45
 1579,Wednesday August 05, 2026,,35,44,48,53
+1580,Thursday August 06, 2026,,05,12,14,47
+1581,Friday August 07, 2026,,08,39,41,50

@@ -292,3 +292,5 @@ Draw,Date,Letter,Numbers...
 0843,Monday August 03, 2026,H,2,2,3,2,2,7,3,2,2
 0844,Tuesday August 04, 2026,S,3,8,1,3,8,9,1,3,8
 0845,Wednesday August 05, 2026,E,5,1,0,5,1,4,0,5,1
+0846,Thursday August 06, 2026,F,5,8,1,5,8,2,1,5,8
+0847,Friday August 07, 2026,J,7,7,2,7,7,0,2,7,7

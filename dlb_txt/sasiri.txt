@@ -1003,3 +1003,5 @@ Draw,Date,Letter,Numbers...
 1072,2026-Aug-03 Monday,,07,08,35
 1073,2026-Aug-04 Tuesday,,19,44,45
 1074,2026-Aug-05 Wednesday,,04,10,18
+1075,2026-Aug-06 Thursday,,06,19,30
+1076,2026-Aug-07 Friday,,15,32,46
