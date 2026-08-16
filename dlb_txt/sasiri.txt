@@ -1013,3 +1013,4 @@ Draw,Date,Letter,Numbers...
 1082,2026-Aug-13 Thursday,,10,19,23
 1083,2026-Aug-14 Friday,,14,18,21
 1084,2026-Aug-15 Saturday,,15,26,39
+1085,2026-Aug-16 Sunday,,30,47,50
