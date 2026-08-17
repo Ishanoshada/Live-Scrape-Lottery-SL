@@ -300,3 +300,5 @@ Draw,Date,Letter,Numbers...
 0546,Thursday August 13, 2026,O,3,3,8,8
 0547,Friday August 14, 2026,E,4,6,6,3
 0548,Saturday August 15, 2026,W,0,2,6,7
+0549,Sunday August 16, 2026,F,6,1,9,1,2,1,9,8
+0550,Monday August 17, 2026,L,1,7,6,2

@@ -309,3 +309,5 @@ Draw,Date,Letter,Numbers...
 0394,Thursday August 13, 2026,,27,30,53,2,0,1,8
 0395,Friday August 14, 2026,,1,8,19,2,8,4,0
 0396,Saturday August 15, 2026,,02,32,33,0,8,9,2
+0397,Sunday August 16, 2026,,10,27,56,4,6,3,3
+0398,Monday August 17, 2026,,11,53,65,5,7,8,9

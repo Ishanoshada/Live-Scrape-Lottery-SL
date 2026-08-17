@@ -303,3 +303,4 @@ Draw,Date,Letter,Numbers...
 0854,Friday August 14, 2026,N,1,0,9,1,0,0,9,1,0
 0855,Saturday August 15, 2026,T,3,3,2,3,3,4,2,3,3
 0856,Sunday August 16, 2026,W,1,8,2,1,8,4,2,1,8
+0857,Monday August 17, 2026,J,2,2,5,2,2,7,5,2,2
