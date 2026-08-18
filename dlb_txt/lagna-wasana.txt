@@ -1837,3 +1837,4 @@ Draw,Date,Letter,Numbers...
 4966,2026-Aug-15 Saturday,,03,07,23,36
 4967,2026-Aug-16 Sunday,,28,38,60,62
 4968,2026-Aug-17 Monday,,06,44,52,61
+4969,2026-Aug-18 Tuesday,,13,17,31,61
