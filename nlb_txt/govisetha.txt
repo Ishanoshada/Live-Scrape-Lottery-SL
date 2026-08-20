@@ -313,3 +313,4 @@ Draw,Date,Letter,Numbers...
 4524,Monday August 17, 2026,A,20,36,45,46
 4525,Tuesday August 18, 2026,X,02,15,16,72
 4526,Wednesday August 19, 2026,P,09,15,18,39
+4527,Thursday August 20, 2026,P,3,28,60,68

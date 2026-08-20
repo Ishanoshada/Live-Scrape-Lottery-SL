@@ -1839,3 +1839,4 @@ Draw,Date,Letter,Numbers...
 4968,2026-Aug-17 Monday,,06,44,52,61
 4969,2026-Aug-18 Tuesday,,13,17,31,61
 4970,2026-Aug-19 Wednesday,,01,08,43,54
+4971,2026-Aug-20 Thursday,,21,31,37,59

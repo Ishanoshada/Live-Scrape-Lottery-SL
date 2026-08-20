@@ -1832,3 +1832,4 @@ Draw,Date,Letter,Numbers...
 3082,2026-Aug-17 Monday,M,24,26,35,46
 3083,2026-Aug-18 Tuesday,T,02,12,20,43
 3084,2026-Aug-19 Wednesday,V,04,07,40,41
+3085,2026-Aug-20 Thursday,Q,05,42,48,59

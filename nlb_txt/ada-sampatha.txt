@@ -306,3 +306,4 @@ Draw,Date,Letter,Numbers...
 0857,Monday August 17, 2026,J,2,2,5,2,2,7,5,2,2
 0858,Tuesday August 18, 2026,R,7,9,1,7,9,0,1,7,9
 0859,Wednesday August 19, 2026,X,2,2,2,2,2,0,2,2,2
+0860,Thursday August 20, 2026,V,9,8,6,9,8,4,6,9,8
