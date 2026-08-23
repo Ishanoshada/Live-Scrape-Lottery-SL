@@ -316,3 +316,4 @@ Draw,Date,Letter,Numbers...
 6285,Thursday August 20, 2026,V,5,4,4,6,9,8
 6286,Friday August 21, 2026,L,7,9,7,1,4,1
 6287,Saturday August 22, 2026,U,5,0,3,9,2,1
+6288,Sunday August 23, 2026,U,9,2,8,6,5,8
