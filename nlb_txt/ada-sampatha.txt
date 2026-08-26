@@ -312,3 +312,4 @@ Draw,Date,Letter,Numbers...
 0863,Sunday August 23, 2026,U,5,8,6,5,8,8,6,5,8
 0864,Monday August 24, 2026,H,5,4,9,5,4,5,9,5,4
 0865,Tuesday August 25, 2026,U,3,6,2,3,6,2,2,3,6
+0866,Wednesday August 26, 2026,W,4,6,0,4,6,7,0,4,6
