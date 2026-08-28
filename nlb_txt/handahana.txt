@@ -320,3 +320,4 @@ Draw,Date,Letter,Numbers...
 1598,Monday August 24, 2026,,10,33,49,62
 1599,Tuesday August 25, 2026,,16,44,61,62
 1600,Wednesday August 26, 2026,,08,23,31,45
+1601,Thursday August 27, 2026,,13,33,40,53
