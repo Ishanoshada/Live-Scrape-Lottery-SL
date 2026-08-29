@@ -321,3 +321,5 @@ Draw,Date,Letter,Numbers...
 4532,Tuesday August 25, 2026,F,43,50,59,67
 4533,Wednesday August 26, 2026,Q,16,18,71,78
 4534,Thursday August 27, 2026,C,02,24,31,38
+4535,Saturday August 29, 2026,S,20,55,57,73
+4536,Saturday August 29, 2026,G,14,21,43,61

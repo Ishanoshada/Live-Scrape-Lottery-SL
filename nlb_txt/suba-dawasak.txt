@@ -320,3 +320,6 @@ Draw,Date,Letter,Numbers...
 0405,Monday August 24, 2026,,04,09,59,9,7,1,2
 0406,Tuesday August 25, 2026,,21,33,65,9,0,4,3
 0407,Wednesday August 26, 2026,,29,46,61,2,0,4,6
+0408,Thursday August 27, 2026,,13,42,54,8,4,8,4
+0409,Saturday August 29, 2026,,06,10,32,3,0,0,9
+0410,Saturday August 29, 2026,,15,23,49,9,1,2,8

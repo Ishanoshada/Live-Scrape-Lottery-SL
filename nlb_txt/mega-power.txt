@@ -320,3 +320,6 @@ Draw,Date,Letter,Numbers...
 2637,Monday August 24, 2026,I,13,13,33,57,60
 2638,Tuesday August 25, 2026,M,02,49,57,69,78
 2639,Wednesday August 26, 2026,I,20,26,58,68,70
+2640,Thursday August 27, 2026,Z,01,03,17,44,77
+2641,Saturday August 29, 2026,V,24,03,18,29,62
+2642,Saturday August 29, 2026,G,06,06,12,29,71
