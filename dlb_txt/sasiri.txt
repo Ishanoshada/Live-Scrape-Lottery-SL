@@ -1025,3 +1025,4 @@ Draw,Date,Letter,Numbers...
 1094,2026-Aug-25 Tuesday,,22,26,48
 1095,2026-Aug-26 Wednesday,,13,30,35
 1096,2026-Aug-27 Thursday,,23,30,41
+1097,2026-Aug-28 Friday,,20,27,47
