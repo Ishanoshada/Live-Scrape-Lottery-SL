@@ -316,3 +316,4 @@ Draw,Date,Letter,Numbers...
 0867,Thursday August 27, 2026,Z,8,6,3,8,6,4,3,8,6
 0868,Friday August 28, 2026,F,1,5,9,1,5,3,9,1,5
 0869,Saturday August 29, 2026,G,3,6,9,3,6,2,9,3,6
+0870,Sunday August 30, 2026,G,0,8,9,0,8,5,9,0,8

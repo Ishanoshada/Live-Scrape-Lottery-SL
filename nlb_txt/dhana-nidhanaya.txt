@@ -324,3 +324,4 @@ Draw,Date,Letter,Numbers...
 2322,Thursday August 27, 2026,G,30,38,47,63
 2323,Friday August 28, 2026,F,22,28,64,78
 2324,Saturday August 29, 2026,O,04,09,41,68
+2325,Sunday August 30, 2026,D,41,51,52,64,0,6,0,3

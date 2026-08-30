@@ -323,3 +323,4 @@ Draw,Date,Letter,Numbers...
 6292,Thursday August 27, 2026,Z,9,5,4,3,8,6
 6293,Saturday August 29, 2026,F,8,4,3,9,1,5
 6294,Saturday August 29, 2026,G,1,5,2,9,3,6
+6295,Sunday August 30, 2026,G,5,3,5,9,0,8
