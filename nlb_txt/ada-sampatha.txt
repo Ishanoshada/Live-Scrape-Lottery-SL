@@ -317,3 +317,4 @@ Draw,Date,Letter,Numbers...
 0868,Friday August 28, 2026,F,1,5,9,1,5,3,9,1,5
 0869,Saturday August 29, 2026,G,3,6,9,3,6,2,9,3,6
 0870,Sunday August 30, 2026,G,0,8,9,0,8,5,9,0,8
+0871,Monday August 31, 2026,E,8,5,8,8,5,3,8,8,5
