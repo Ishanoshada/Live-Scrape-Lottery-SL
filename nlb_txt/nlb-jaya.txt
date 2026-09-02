@@ -316,3 +316,5 @@ Draw,Date,Letter,Numbers...
 0562,Saturday August 29, 2026,J,3,3,3,5
 0563,Sunday August 30, 2026,C,2,8,0,8,4,3,6,2
 0564,Monday August 31, 2026,Q,4,0,5,7
+0565,Tuesday September 01, 2026,O,6,8,0,5
+0566,Wednesday September 02, 2026,V,0,2,2,1

@@ -325,3 +325,5 @@ Draw,Date,Letter,Numbers...
 2642,Saturday August 29, 2026,G,06,06,12,29,71
 2643,Sunday August 30, 2026,P,17,4,5,58,59
 2644,Monday August 31, 2026,S,22,7,27,40,62
+2645,Tuesday September 01, 2026,A,11,09,11,61,79
+2646,Wednesday September 02, 2026,Z,26,02,39,60,72

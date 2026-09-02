@@ -325,3 +325,5 @@ Draw,Date,Letter,Numbers...
 1603,Saturday August 29, 2026,,39,42,56,61
 1604,Sunday August 30, 2026,,20,30,54,62
 1605,Monday August 31, 2026,,5,16,17,42
+1606,Tuesday September 01, 2026,,13,16,20,30
+1607,Wednesday September 02, 2026,,23,34,43,61
