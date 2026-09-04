@@ -1006,3 +1006,4 @@ Draw,Date,Letter,Numbers...
 1005,2026-Sep-01 Tuesday,E,4,3,1,7,7,9
 1006,2026-Sep-02 Wednesday,S,3,0,6,8,2,5
 1007,2026-Sep-03 Thursday,T,5,5,7,0,7,1
+1008,2026-Sep-04 Friday,C,2,3,0,4,0,1

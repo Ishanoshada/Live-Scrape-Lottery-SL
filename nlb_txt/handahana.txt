@@ -328,3 +328,4 @@ Draw,Date,Letter,Numbers...
 1606,Tuesday September 01, 2026,,13,16,20,30
 1607,Wednesday September 02, 2026,,23,34,43,61
 1608,Thursday September 03, 2026,,27,36,47,56
+1609,Friday September 04, 2026,,01,20,55,61

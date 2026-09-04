@@ -327,3 +327,5 @@ Draw,Date,Letter,Numbers...
 2644,Monday August 31, 2026,S,22,7,27,40,62
 2645,Tuesday September 01, 2026,A,11,09,11,61,79
 2646,Wednesday September 02, 2026,Z,26,02,39,60,72
+2647,Thursday September 03, 2026,F,11,09,51,55,79
+2648,Friday September 04, 2026,F,06,28,33,35,48
