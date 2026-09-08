@@ -1858,3 +1858,4 @@ Draw,Date,Letter,Numbers...
 4987,2026-Sep-05 Saturday,,16,18,27,40
 4988,2026-Sep-06 Sunday,,11,27,32,55
 4989,2026-Sep-07 Monday,,06,11,24,62
+4990,2026-Sep-08 Tuesday,,29,30,40,43

@@ -323,3 +323,4 @@ Draw,Date,Letter,Numbers...
 0569,Saturday September 05, 2026,F,4,1,8,7
 0570,Sunday September 06, 2026,K,2,0,6,6
 0571,Monday September 07, 2026,V,1,2,4,2
+0572,Tuesday September 08, 2026,S,3,5,6,5
