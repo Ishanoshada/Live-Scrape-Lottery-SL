@@ -337,3 +337,4 @@ Draw,Date,Letter,Numbers...
 1615,Thursday September 10, 2026,,12,13,32,54
 1616,Friday September 11, 2026,,20,35,53,56
 1617,Saturday September 12, 2026,,22,44,45,50
+1618,Sunday September 13, 2026,,27,29,35,54

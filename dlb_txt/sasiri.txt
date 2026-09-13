@@ -1041,3 +1041,4 @@ Draw,Date,Letter,Numbers...
 1110,2026-Sep-10 Thursday,,30,38,40
 1111,2026-Sep-11 Friday,,18,25,40
 1112,2026-Sep-12 Saturday,,23,30,35
+1113,2026-Sep-13 Sunday,,28,42,50
