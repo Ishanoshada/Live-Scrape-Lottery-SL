@@ -1867,3 +1867,4 @@ Draw,Date,Letter,Numbers...
 4996,2026-Sep-14 Monday,,11,31,43,49
 4997,2026-Sep-15 Tuesday,,05,25,42,57
 4998,2026-Sep-16 Wednesday,,04,24,59,60
+4999,2026-Sep-17 Thursday,,12,35,50,60

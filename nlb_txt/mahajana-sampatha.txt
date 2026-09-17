@@ -341,3 +341,4 @@ Draw,Date,Letter,Numbers...
 6310,Monday September 14, 2026,D,6,6,0,6,4,7
 6311,Tuesday September 15, 2026,N,2,0,5,4,3,4
 6312,Wednesday September 16, 2026,D,1,6,4,4,2,8
+6313,Thursday September 17, 2026,U,0,2,0,9,3,9
