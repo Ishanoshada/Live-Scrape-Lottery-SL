@@ -344,3 +344,4 @@ Draw,Date,Letter,Numbers...
 2661,Thursday September 17, 2026,S,25,14,35,43,72
 2662,Friday September 18, 2026,X,12,10,14,17,19
 2663,Saturday September 19, 2026,U,15,20,43,65,79
+2664,Sunday September 20, 2026,U,12,12,50,53,70
