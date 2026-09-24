@@ -341,3 +341,4 @@ Draw,Date,Letter,Numbers...
 0892,Monday September 21, 2026,U,7,7,7,7,7,3,7,7,7
 0893,Tuesday September 22, 2026,M,1,1,4,1,1,1,4,1,1
 0894,Wednesday September 23, 2026,G,6,0,3,6,0,3,3,6,0
+0895,Thursday September 24, 2026,A,2,2,6,2,2,6,6,2,2

@@ -1026,3 +1026,4 @@ Draw,Date,Letter,Numbers...
 1025,2026-Sep-21 Monday,A,8,4,2,9,9,4
 1026,2026-Sep-22 Tuesday,B,5,5,6,8,8,7
 1027,2026-Sep-23 Wednesday,D,7,6,3,1,8,8
+1028,2026-Sep-24 Thursday,K,1,6,0,8,7,0
