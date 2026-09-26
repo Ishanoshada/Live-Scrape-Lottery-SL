@@ -343,3 +343,4 @@ Draw,Date,Letter,Numbers...
 0894,Wednesday September 23, 2026,G,6,0,3,6,0,3,3,6,0
 0895,Thursday September 24, 2026,A,2,2,6,2,2,6,6,2,2
 0896,Friday September 25, 2026,S,5,9,1,5,9,6,1,5,9
+0897,Saturday September 26, 2026,T,9,4,1,9,4,4,1,9,4
