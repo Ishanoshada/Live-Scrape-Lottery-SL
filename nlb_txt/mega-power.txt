@@ -350,3 +350,5 @@ Draw,Date,Letter,Numbers...
 2667,Wednesday September 23, 2026,I,13,15,42,60,75
 2668,Thursday September 24, 2026,G,10,03,22,28,64
 2669,Friday September 25, 2026,Z,14,08,22,35,77
+2670,Saturday September 26, 2026,U,18,05,07,38,77
+2671,Sunday September 27, 2026,Y,25,49,61,65,68

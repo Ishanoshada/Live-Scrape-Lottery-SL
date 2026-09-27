@@ -1877,3 +1877,4 @@ Draw,Date,Letter,Numbers...
 5006,2026-Sep-24 Thursday,,07,22,31,60
 5007,2026-Sep-25 Friday,,06,34,42,53
 5008,2026-Sep-26 Saturday,,08,12,14,52
+5009,2026-Sep-27 Sunday,,11,20,27,41

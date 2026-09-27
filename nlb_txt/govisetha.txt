@@ -350,3 +350,5 @@ Draw,Date,Letter,Numbers...
 4561,Wednesday September 23, 2026,L,35,40,76,79
 4562,Thursday September 24, 2026,H,20,25,53,54
 4563,Friday September 25, 2026,T,16,30,34,51
+4564,Saturday September 26, 2026,D,10,22,69,76
+4565,Sunday September 27, 2026,R,16,25,49,73

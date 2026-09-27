@@ -341,3 +341,5 @@ Draw,Date,Letter,Numbers...
 0587,Wednesday September 23, 2026,Y,2,3,0,7
 0588,Thursday September 24, 2026,T,1,1,4,9
 0589,Friday September 25, 2026,B,5,1,0,0
+0590,Saturday September 26, 2026,G,4,8,2,8
+0591,Sunday September 27, 2026,R,6,6,5,9

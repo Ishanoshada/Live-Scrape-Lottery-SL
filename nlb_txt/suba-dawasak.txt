@@ -350,3 +350,5 @@ Draw,Date,Letter,Numbers...
 0435,Wednesday September 23, 2026,,13,51,52,9,7,4,6
 0436,Thursday September 24, 2026,,38,48,57,1,2,5,4
 0437,Friday September 25, 2026,,04,33,57,2,2,1,5
+0438,Saturday September 26, 2026,,09,19,39,0,7,6,1
+0439,Sunday September 27, 2026,,22,23,28,3,7,4,6

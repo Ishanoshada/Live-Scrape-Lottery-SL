@@ -352,3 +352,4 @@ Draw,Date,Letter,Numbers...
 2350,Thursday September 24, 2026,C,11,13,29,43
 2351,Friday September 25, 2026,B,17,27,61,77
 2352,Saturday September 26, 2026,W,25,75,80,82
+2353,Sunday September 27, 2026,A,23,32,46,61
