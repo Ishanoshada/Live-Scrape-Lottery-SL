@@ -1872,3 +1872,4 @@ Draw,Date,Letter,Numbers...
 3295,2026-Sep-25 Friday,H,07,15,17,60
 3296,2026-Sep-26 Saturday,T,08,10,32,39
 3297,2026-Sep-27 Sunday,C,18,30,37,76
+3298,2026-Sep-28 Monday,X,04,06,15,27
