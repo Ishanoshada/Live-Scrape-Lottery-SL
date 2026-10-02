@@ -1034,3 +1034,4 @@ Draw,Date,Letter,Numbers...
 1033,2026-Sep-29 Tuesday,T,4,3,2,7,6,9
 1034,2026-Sep-30 Wednesday,L,8,6,9,6,0,0
 1035,2026-Oct-01 Thursday,K,8,5,0,6,0,8
+1036,2026-Oct-02 Friday,R,2,3,2,7,2,2
