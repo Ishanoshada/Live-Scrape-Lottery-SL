@@ -358,3 +358,5 @@ Draw,Date,Letter,Numbers...
 0443,Thursday October 01, 2026,,40,46,50
 0444,Friday October 02, 2026,,30,43,49
 0445,Saturday October 03, 2026,,29,38,51
+0446,Sunday October 04, 2026,,12,15,58
+0447,Monday October 05, 2026,,10,26,30

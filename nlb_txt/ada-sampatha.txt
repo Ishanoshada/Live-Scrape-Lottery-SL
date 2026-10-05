@@ -352,3 +352,4 @@ Draw,Date,Letter,Numbers...
 0903,Friday October 02, 2026,N,4,3,6,4,3,6,6,4,3
 0904,Saturday October 03, 2026,Q,4,0,0,4,0,7,0,4,0
 0905,Sunday October 04, 2026,N,3,2,3,3,2,4,3,3,2
+0906,Monday October 05, 2026,O,3,2,4,3,2,2,4,3,2
