@@ -30,6 +30,17 @@ This repository is more than just a storage folder; it is a live, self-updating 
 4. **Live Analytics:** Every time new results are fetched, a secondary script analyzes the entire historical dataset to calculate the most frequently drawn numbers and letters (Frequency Analysis).
 5. **Text-Based Storage:** Results are stored in lightweight `.txt` files, making it incredibly fast to read and process for data scientists and developers.
 
+<p align="center">
+  <a href="https://www.paypal.com/donate/?business=ic31908%40gmail.com&currency_code=USD">
+    <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="Donate with PayPal" height="80">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.paypal.com/donate/?business=ic31908%40gmail.com&currency_code=USD">
+    <img src="https://raw.githubusercontent.com/elestyle/elepay-payment-logos/master/payment_logos/svg/paypal.svg" alt="Donate with PayPal" height="100">
+  </a>
+</p>
 ---
 
 ## 📁 Data Structure
