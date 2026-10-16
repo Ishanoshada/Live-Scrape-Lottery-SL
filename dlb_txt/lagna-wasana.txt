@@ -1896,3 +1896,4 @@ Draw,Date,Letter,Numbers...
 5025,2026-Oct-13 Tuesday,,02,09,26,42
 5026,2026-Oct-14 Wednesday,,09,25,30,53
 5027,2026-Oct-15 Thursday,,08,11,23,29
+5028,2026-Oct-16 Friday,,18,35,44,48
