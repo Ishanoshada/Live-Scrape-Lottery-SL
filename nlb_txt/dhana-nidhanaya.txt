@@ -373,3 +373,4 @@ Draw,Date,Letter,Numbers...
 2371,Thursday October 15, 2026,K,02,05,36,60
 2372,Friday October 16, 2026,B,34,44,54,60
 2373,Saturday October 17, 2026,Q,12,14,20,51
+2374,Sunday October 18, 2026,S,34,40,45,80
