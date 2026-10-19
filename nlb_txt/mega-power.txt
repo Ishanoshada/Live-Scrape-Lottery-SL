@@ -371,3 +371,6 @@ Draw,Date,Letter,Numbers...
 2688,Wednesday October 14, 2026,J,04,04,10,30,48
 2689,Thursday October 15, 2026,Z,16,04,30,63,73
 2690,Friday October 16, 2026,A,4,24,27,67,74
+2691,Saturday October 17, 2026,N,24,38,41,50,51
+2692,Sunday October 18, 2026,U,3,5,45,53,69
+2693,Monday October 19, 2026,G,15,03,22,64,70

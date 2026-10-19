@@ -371,3 +371,6 @@ Draw,Date,Letter,Numbers...
 0456,Wednesday October 14, 2026,,22,48,60
 0457,Thursday October 15, 2026,,41,47,66
 0458,Friday October 16, 2026,,35,41,66
+0459,Saturday October 17, 2026,,22,42,44
+0460,Sunday October 18, 2026,,11,59,67
+0461,Monday October 19, 2026,,05,13,31

@@ -362,3 +362,6 @@ Draw,Date,Letter,Numbers...
 0608,Wednesday October 14, 2026,M,5,2,3,0
 0609,Thursday October 15, 2026,A,6,9,6,2
 0610,Friday October 16, 2026,T,2,2,7,7
+0611,Saturday October 17, 2026,G,1,6,8,5
+0612,Sunday October 18, 2026,A,7,6,7,9
+0613,Monday October 19, 2026,C,7,8,9,4

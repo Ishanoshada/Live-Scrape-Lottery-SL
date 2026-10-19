@@ -371,3 +371,6 @@ Draw,Date,Letter,Numbers...
 1649,Wednesday October 14, 2026,,10,23,27,43
 1650,Thursday October 15, 2026,,07,08,20,57
 1651,Friday October 16, 2026,,12,30,50,51
+1652,Saturday October 17, 2026,,06,09,10,55
+1653,Sunday October 18, 2026,,2,8,31,42
+1654,Monday October 19, 2026,,09,21,31,37
