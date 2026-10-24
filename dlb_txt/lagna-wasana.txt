@@ -1904,3 +1904,4 @@ Draw,Date,Letter,Numbers...
 5033,2026-Oct-21 Wednesday,,02,11,35,40
 5034,2026-Oct-22 Thursday,,31,34,42,59
 5035,2026-Oct-23 Friday,,04,18,22,46
+5036,2026-Oct-24 Saturday,,17,35,39,48
