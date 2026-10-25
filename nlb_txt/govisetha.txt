@@ -379,3 +379,4 @@ Draw,Date,Letter,Numbers...
 4590,Thursday October 22, 2026,T,7,10,15,48
 4591,Friday October 23, 2026,U,11,15,69,75
 4592,Saturday October 24, 2026,E,18,20,28,61
+4593,Sunday October 25, 2026,H,14,31,43,56

@@ -380,3 +380,4 @@ Draw,Date,Letter,Numbers...
 2378,Thursday October 22, 2026,Y,8,13,54,74
 2379,Friday October 23, 2026,Y,13,20,22,33
 2380,Saturday October 24, 2026,B,36,51,58,77
+2381,Sunday October 25, 2026,O,16,24,25,74
