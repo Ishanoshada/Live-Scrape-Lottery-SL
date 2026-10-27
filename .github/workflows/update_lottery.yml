@@ -2,42 +2,45 @@ name: Update Lottery Data
 
 on:
   schedule:
-    # සෑම පැය 5කට වරක් (විනාඩි 300කට වරක්) ක්‍රියාත්මක වේ. 
+    # සෑම පැය 5කට වරක් (විනාඩි 300කට වරක්) ක්‍රියාත්මක වේ.
     - cron: '30 17 * * *'
   workflow_dispatch: # අවශ්‍ය විටක manual run කිරීමට
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    # Ubuntu 26.04 no longer ships Python 3.9 binaries.
+    # Pin to ubuntu-24.04 so the '3.9' interpreter is still available.
+    runs-on: ubuntu-24.04
     permissions:
-      contents: write  
+      contents: write
+
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-    - name: Set up Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: '3.9'
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.9'
 
-    - name: Install dependencies
-      run: |
-        python -m pip install --upgrade pip
-        pip install -r requirements.txt
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
 
-    # 1 වැනි පියවර: දත්ත ලබා ගැනීම සහ Table එක Update කිරීම
-    - name: Run Scraper
-      run: python main.py
+      # 1 වැනි පියවර: දත්ත ලබා ගැනීම සහ Table එක Update කිරීම
+      - name: Run Scraper
+        run: python main.py
 
-    # 2 වැනි පියවර: දත්ත විශ්ලේෂණය කර README එකට Report එක දැමීම
-    - name: Run Data Analyzer
-      run: python analyzer.py
+      # 2 වැනි පියවර: දත්ත විශ්ලේෂණය කර README එකට Report එක දැමීම
+      - name: Run Data Analyzer
+        run: python analyzer.py
 
-    # 3 වැනි පියවර: වෙනස්කම් ගබඩාවට Push කිරීම
-    - name: Commit and Push changes
-      run: |
-        git config --global user.name "GitHub Action"
-        git config --global user.email "action@github.com"
-        git add nlb_txt/*.txt dlb_txt/*.txt README.md
-        git commit -m "Auto-update lottery results and Analytics README [skip ci]" || echo "No changes to commit"
-        git push
+      # 3 වැනි පියවර: වෙනස්කම් ගබඩාවට Push කිරීම
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add nlb_txt/*.txt dlb_txt/*.txt README.md
+          git commit -m "Auto-update lottery results and Analytics README [skip ci]" || echo "No changes to commit"
+          git push
