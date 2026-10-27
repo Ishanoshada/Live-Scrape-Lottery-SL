@@ -380,3 +380,4 @@ Draw,Date,Letter,Numbers...
 2697,Friday October 23, 2026,N,21,05,14,34,60
 2698,Saturday October 24, 2026,K,19,24,48,61,71
 2699,Sunday October 25, 2026,F,20,04,33,58,65
+2700,Monday October 26, 2026,L,21,27,28,46,51
