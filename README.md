@@ -93,42 +93,42 @@ Developed and maintained by **Ishan Oshada**.
 
 ## 📊 Data Summary
 
-> **Last Updated (Sri Lanka Time):** `2026-10-29 03:19:20 AM`
+> **Last Updated (Sri Lanka Time):** `2026-10-30 03:26:03 AM`
 
 ### National Lottery Board (NLB)
 | Lottery Name | File Link | Data Length | File Size |
 | :--- | :--- | :--- | :--- |
-| Ada Sampatha | [ada-sampatha.txt](https://github.com/Ishanoshada/Live-Scrape-Lottery-SL/blob/main/nlb_txt/ada-sampatha.txt) | 377 Rows | 18.19 KB |
-| Ayubo | [ayubo.txt](https://github.com/Ishanoshada/Live-Scrape-Lottery-SL/blob/main/nlb_txt/ayubo.txt) | 17 Rows | 745 Bytes |
-| Dhana Nidhanaya | [dhana-nidhanaya.txt](https://github.com/Ishanoshada/Live-Scrape-Lottery-SL/blob/main/nlb_txt/dhana-nidhanaya.txt) | 385 Rows | 16.50 KB |
-| Govisetha | [govisetha.txt](https://github.com/Ishanoshada/Live-Scrape-Lottery-SL/blob/main/nlb_txt/govisetha.txt) | 384 Rows | 16.26 KB |
-| Handahana | [handahana.txt](https://github.com/Ishanoshada/Live-Scrape-Lottery-SL/blob/main/nlb_txt/handahana.txt) | 384 Rows | 15.85 KB |
+| Ada Sampatha | [ada-sampatha.txt](https://github.com/Ishanoshada/Live-Scrape-Lottery-SL/blob/main/nlb_txt/ada-sampatha.txt) | 378 Rows | 18.24 KB |
+| Ayubo | [ayubo.txt](https://github.com/Ishanoshada/Live-Scrape-Lottery-SL/blob/main/nlb_txt/ayubo.txt) | 18 Rows | 786 Bytes |
+| Dhana Nidhanaya | [dhana-nidhanaya.txt](https://github.com/Ishanoshada/Live-Scrape-Lottery-SL/blob/main/nlb_txt/dhana-nidhanaya.txt) | 386 Rows | 16.54 KB |
+| Govisetha | [govisetha.txt](https://github.com/Ishanoshada/Live-Scrape-Lottery-SL/blob/main/nlb_txt/govisetha.txt) | 385 Rows | 16.31 KB |
+| Handahana | [handahana.txt](https://github.com/Ishanoshada/Live-Scrape-Lottery-SL/blob/main/nlb_txt/handahana.txt) | 385 Rows | 15.90 KB |
 | Lucky 7 | [lucky-7.txt](https://github.com/Ishanoshada/Live-Scrape-Lottery-SL/blob/main/nlb_txt/lucky-7.txt) | 0 Rows | 28 Bytes |
-| Mahajana Sampatha | [mahajana-sampatha.txt](https://github.com/Ishanoshada/Live-Scrape-Lottery-SL/blob/main/nlb_txt/mahajana-sampatha.txt) | 384 Rows | 16.33 KB |
-| Mega Power | [mega-power.txt](https://github.com/Ishanoshada/Live-Scrape-Lottery-SL/blob/main/nlb_txt/mega-power.txt) | 384 Rows | 17.37 KB |
-| Nlb Jaya | [nlb-jaya.txt](https://github.com/Ishanoshada/Live-Scrape-Lottery-SL/blob/main/nlb_txt/nlb-jaya.txt) | 375 Rows | 14.64 KB |
+| Mahajana Sampatha | [mahajana-sampatha.txt](https://github.com/Ishanoshada/Live-Scrape-Lottery-SL/blob/main/nlb_txt/mahajana-sampatha.txt) | 385 Rows | 16.37 KB |
+| Mega Power | [mega-power.txt](https://github.com/Ishanoshada/Live-Scrape-Lottery-SL/blob/main/nlb_txt/mega-power.txt) | 385 Rows | 17.42 KB |
+| Nlb Jaya | [nlb-jaya.txt](https://github.com/Ishanoshada/Live-Scrape-Lottery-SL/blob/main/nlb_txt/nlb-jaya.txt) | 376 Rows | 14.68 KB |
 | Samurdhi Scratch Lottery | [samurdhi-scratch-lottery.txt](https://github.com/Ishanoshada/Live-Scrape-Lottery-SL/blob/main/nlb_txt/samurdhi-scratch-lottery.txt) | 0 Rows | 28 Bytes |
 | Sevana Scratch Lottery | [sevana-scratch-lottery.txt](https://github.com/Ishanoshada/Live-Scrape-Lottery-SL/blob/main/nlb_txt/sevana-scratch-lottery.txt) | 0 Rows | 28 Bytes |
-| Suba Dawasak | [suba-dawasak.txt](https://github.com/Ishanoshada/Live-Scrape-Lottery-SL/blob/main/nlb_txt/suba-dawasak.txt) | 384 Rows | 17.51 KB |
+| Suba Dawasak | [suba-dawasak.txt](https://github.com/Ishanoshada/Live-Scrape-Lottery-SL/blob/main/nlb_txt/suba-dawasak.txt) | 385 Rows | 17.55 KB |
 
 ### Development Lottery Board (DLB)
 | Lottery Name | File Link | Data Length | File Size |
 | :--- | :--- | :--- | :--- |
-| Ada Kotipathi | [ada-kotipathi.txt](https://github.com/Ishanoshada/Live-Scrape-Lottery-SL/blob/main/dlb_txt/ada-kotipathi.txt) | 1903 Rows | 72.78 KB |
+| Ada Kotipathi | [ada-kotipathi.txt](https://github.com/Ishanoshada/Live-Scrape-Lottery-SL/blob/main/dlb_txt/ada-kotipathi.txt) | 1904 Rows | 72.82 KB |
 | Jaya Sampatha | [jaya-sampatha.txt](https://github.com/Ishanoshada/Live-Scrape-Lottery-SL/blob/main/dlb_txt/jaya-sampatha.txt) | 0 Rows | 28 Bytes |
 | Jayoda | [jayoda.txt](https://github.com/Ishanoshada/Live-Scrape-Lottery-SL/blob/main/dlb_txt/jayoda.txt) | 427 Rows | 16.50 KB |
-| Kapruka | [kapruka.txt](https://github.com/Ishanoshada/Live-Scrape-Lottery-SL/blob/main/dlb_txt/kapruka.txt) | 1791 Rows | 73.20 KB |
-| Lagna Wasana | [lagna-wasana.txt](https://github.com/Ishanoshada/Live-Scrape-Lottery-SL/blob/main/dlb_txt/lagna-wasana.txt) | 1910 Rows | 71.18 KB |
-| Sasiri | [sasiri.txt](https://github.com/Ishanoshada/Live-Scrape-Lottery-SL/blob/main/dlb_txt/sasiri.txt) | 1088 Rows | 36.12 KB |
+| Kapruka | [kapruka.txt](https://github.com/Ishanoshada/Live-Scrape-Lottery-SL/blob/main/dlb_txt/kapruka.txt) | 1792 Rows | 73.24 KB |
+| Lagna Wasana | [lagna-wasana.txt](https://github.com/Ishanoshada/Live-Scrape-Lottery-SL/blob/main/dlb_txt/lagna-wasana.txt) | 1911 Rows | 71.22 KB |
+| Sasiri | [sasiri.txt](https://github.com/Ishanoshada/Live-Scrape-Lottery-SL/blob/main/dlb_txt/sasiri.txt) | 1089 Rows | 36.15 KB |
 | Shanida | [shanida.txt](https://github.com/Ishanoshada/Live-Scrape-Lottery-SL/blob/main/dlb_txt/shanida.txt) | 0 Rows | 28 Bytes |
-| Super Ball | [super-ball.txt](https://github.com/Ishanoshada/Live-Scrape-Lottery-SL/blob/main/dlb_txt/super-ball.txt) | 1904 Rows | 72.82 KB |
-| Supiri Dhana Sampatha | [supiri-dhana-sampatha.txt](https://github.com/Ishanoshada/Live-Scrape-Lottery-SL/blob/main/dlb_txt/supiri-dhana-sampatha.txt) | 1062 Rows | 39.55 KB |
+| Super Ball | [super-ball.txt](https://github.com/Ishanoshada/Live-Scrape-Lottery-SL/blob/main/dlb_txt/super-ball.txt) | 1905 Rows | 72.85 KB |
+| Supiri Dhana Sampatha | [supiri-dhana-sampatha.txt](https://github.com/Ishanoshada/Live-Scrape-Lottery-SL/blob/main/dlb_txt/supiri-dhana-sampatha.txt) | 1063 Rows | 39.59 KB |
 
 ---
 
 ## 📈 Lottery Data Analytic Report
 
-> **Analytic Report Last Updated:** `2026-10-29 03:19:20 AM` (Sri Lanka Time)
+> **Analytic Report Last Updated:** `2026-10-30 03:26:03 AM` (Sri Lanka Time)
 >
 > *This table is auto-generated based on the current dataset. It displays the top 5 most frequently drawn numbers and letters (Hits / Total Draws).*
 
@@ -136,25 +136,25 @@ Developed and maintained by **Ishan Oshada**.
 
 | Lottery Name | 🔥 Top 5 Numbers (Hits/Total) | 🔠 Top 5 Letters (Hits/Total) |
 | :--- | :--- | :--- |
-| **Ada Sampatha** | **2** (137/377)<br>**5** (135/377)<br>**3** (132/377)<br>**4** (132/377)<br>**6** (131/377) | **D** (24/377)<br>**Q** (22/377)<br>**J** (22/377)<br>**N** (21/377)<br>**G** (21/377) |
-| **Ayubo** | **5** (8/17)<br>**9** (8/17)<br>**7** (7/17)<br>**0** (7/17)<br>**2** (7/17) | **K** (2/17)<br>**V** (2/17)<br>**W** (2/17)<br>**J** (1/17)<br>**A** (1/17) |
-| **Dhana Nidhanaya** | **9** (33/385)<br>**4** (30/385)<br>**7** (30/385)<br>**80** (28/385)<br>**19** (28/385) | **U** (21/385)<br>**W** (21/385)<br>**M** (20/385)<br>**Z** (19/385)<br>**F** (19/385) |
-| **Govisetha** | **55** (29/384)<br>**10** (28/384)<br>**32** (27/384)<br>**44** (26/384)<br>**14** (26/384) | **P** (20/384)<br>**I** (20/384)<br>**W** (18/384)<br>**Y** (18/384)<br>**C** (18/384) |
-| **Handahana** | **58** (34/384)<br>**11** (34/384)<br>**55** (34/384)<br>**6** (34/384)<br>**60** (32/384) | N/A |
-| **Mahajana Sampatha** | **2** (193/384)<br>**5** (189/384)<br>**1** (189/384)<br>**3** (185/384)<br>**4** (183/384) | **D** (24/384)<br>**Q** (22/384)<br>**J** (22/384)<br>**G** (21/384)<br>**W** (21/384) |
-| **Mega Power** | **13** (43/384)<br>**11** (42/384)<br>**3** (41/384)<br>**22** (40/384)<br>**26** (40/384) | **U** (26/384)<br>**V** (24/384)<br>**T** (23/384)<br>**K** (20/384)<br>**J** (19/384) |
-| **Nlb Jaya** | **5** (161/375)<br>**2** (142/375)<br>**0** (141/375)<br>**3** (140/375)<br>**6** (140/375) | **T** (22/375)<br>**I** (21/375)<br>**G** (20/375)<br>**P** (18/375)<br>**O** (18/375) |
-| **Suba Dawasak** | **4** (147/384)<br>**3** (142/384)<br>**9** (138/384)<br>**1** (136/384)<br>**2** (136/384) | N/A |
+| **Ada Sampatha** | **2** (138/378)<br>**5** (135/378)<br>**3** (132/378)<br>**4** (132/378)<br>**6** (131/378) | **D** (24/378)<br>**Q** (22/378)<br>**J** (22/378)<br>**N** (21/378)<br>**G** (21/378) |
+| **Ayubo** | **5** (8/18)<br>**2** (8/18)<br>**9** (8/18)<br>**7** (7/18)<br>**0** (7/18) | **K** (2/18)<br>**V** (2/18)<br>**W** (2/18)<br>**J** (1/18)<br>**A** (1/18) |
+| **Dhana Nidhanaya** | **9** (33/386)<br>**4** (30/386)<br>**7** (30/386)<br>**80** (28/386)<br>**19** (28/386) | **U** (21/386)<br>**W** (21/386)<br>**M** (21/386)<br>**Z** (19/386)<br>**F** (19/386) |
+| **Govisetha** | **55** (29/385)<br>**10** (28/385)<br>**32** (27/385)<br>**44** (26/385)<br>**14** (26/385) | **P** (20/385)<br>**I** (20/385)<br>**W** (18/385)<br>**Y** (18/385)<br>**C** (18/385) |
+| **Handahana** | **58** (34/385)<br>**11** (34/385)<br>**55** (34/385)<br>**6** (34/385)<br>**60** (32/385) | N/A |
+| **Mahajana Sampatha** | **2** (194/385)<br>**5** (189/385)<br>**1** (189/385)<br>**3** (186/385)<br>**8** (184/385) | **D** (24/385)<br>**Q** (22/385)<br>**J** (22/385)<br>**G** (21/385)<br>**W** (21/385) |
+| **Mega Power** | **13** (43/385)<br>**11** (42/385)<br>**3** (41/385)<br>**26** (41/385)<br>**22** (40/385) | **U** (26/385)<br>**V** (24/385)<br>**T** (23/385)<br>**K** (20/385)<br>**J** (19/385) |
+| **Nlb Jaya** | **5** (161/376)<br>**2** (143/376)<br>**0** (141/376)<br>**3** (140/376)<br>**6** (140/376) | **T** (22/376)<br>**I** (21/376)<br>**G** (20/376)<br>**P** (18/376)<br>**O** (18/376) |
+| **Suba Dawasak** | **4** (147/385)<br>**3** (142/385)<br>**9** (138/385)<br>**1** (136/385)<br>**2** (136/385) | N/A |
 
 ### 🏢 Development Lottery Board (DLB)
 
 | Lottery Name | 🔥 Top 5 Numbers (Hits/Total) | 🔠 Top 5 Letters (Hits/Total) |
 | :--- | :--- | :--- |
-| **Ada Kotipathi** | **9** (128/1903)<br>**20** (125/1903)<br>**57** (125/1903)<br>**38** (118/1903)<br>**29** (117/1903) | **B** (89/1903)<br>**R** (85/1903)<br>**M** (84/1903)<br>**N** (83/1903)<br>**P** (81/1903) |
+| **Ada Kotipathi** | **9** (128/1904)<br>**20** (125/1904)<br>**57** (125/1904)<br>**38** (118/1904)<br>**29** (117/1904) | **B** (89/1904)<br>**R** (85/1904)<br>**M** (84/1904)<br>**N** (83/1904)<br>**P** (81/1904) |
 | **Jayoda** | **30** (37/427)<br>**3** (32/427)<br>**16** (32/427)<br>**59** (31/427)<br>**64** (31/427) | **G** (26/427)<br>**C** (21/427)<br>**Y** (21/427)<br>**F** (21/427)<br>**U** (20/427) |
-| **Kapruka** | **28** (166/1791)<br>**21** (151/1791)<br>**10** (150/1791)<br>**15** (148/1791)<br>**16** (147/1791) | **H** (90/1791)<br>**U** (81/1791)<br>**M** (79/1791)<br>**S** (76/1791)<br>**G** (76/1791) |
-| **Lagna Wasana** | **23** (144/1910)<br>**5** (144/1910)<br>**25** (143/1910)<br>**39** (142/1910)<br>**36** (141/1910) | N/A |
-| **Sasiri** | **9** (86/1088)<br>**20** (81/1088)<br>**19** (81/1088)<br>**22** (79/1088)<br>**26** (79/1088) | N/A |
-| **Super Ball** | **45** (116/1904)<br>**9** (114/1904)<br>**52** (113/1904)<br>**3** (113/1904)<br>**74** (113/1904) | **I** (95/1904)<br>**T** (86/1904)<br>**V** (84/1904)<br>**D** (84/1904)<br>**A** (82/1904) |
-| **Supiri Dhana Sampatha** | **0** (535/1062)<br>**2** (528/1062)<br>**3** (527/1062)<br>**7** (523/1062)<br>**8** (503/1062) | **V** (56/1062)<br>**K** (51/1062)<br>**T** (50/1062)<br>**S** (48/1062)<br>**G** (47/1062) |
+| **Kapruka** | **28** (166/1792)<br>**21** (151/1792)<br>**10** (150/1792)<br>**15** (148/1792)<br>**16** (147/1792) | **H** (90/1792)<br>**U** (81/1792)<br>**M** (79/1792)<br>**S** (76/1792)<br>**G** (76/1792) |
+| **Lagna Wasana** | **23** (144/1911)<br>**5** (144/1911)<br>**25** (143/1911)<br>**39** (142/1911)<br>**36** (141/1911) | N/A |
+| **Sasiri** | **9** (86/1089)<br>**20** (81/1089)<br>**19** (81/1089)<br>**22** (79/1089)<br>**26** (79/1089) | N/A |
+| **Super Ball** | **45** (116/1905)<br>**9** (114/1905)<br>**29** (114/1905)<br>**52** (113/1905)<br>**3** (113/1905) | **I** (95/1905)<br>**T** (86/1905)<br>**V** (84/1905)<br>**D** (84/1905)<br>**A** (83/1905) |
+| **Supiri Dhana Sampatha** | **0** (536/1063)<br>**2** (528/1063)<br>**3** (528/1063)<br>**7** (523/1063)<br>**5** (503/1063) | **V** (56/1063)<br>**K** (51/1063)<br>**T** (50/1063)<br>**S** (48/1063)<br>**G** (47/1063) |
 

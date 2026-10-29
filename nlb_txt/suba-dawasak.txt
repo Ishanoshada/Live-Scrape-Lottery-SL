@@ -383,3 +383,4 @@ Draw,Date,Letter,Numbers...
 0468,Monday October 26, 2026,,30,38,46
 0469,Tuesday October 27, 2026,,21,34,50
 0470,Wednesday October 28, 2026,,12,22,29
+0471,Thursday October 29, 2026,,08,20,63
