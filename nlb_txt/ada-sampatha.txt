@@ -377,3 +377,4 @@ Draw,Date,Letter,Numbers...
 0928,Tuesday October 27, 2026,N,3,7,8,3,7,1,8,3,7
 0929,Wednesday October 28, 2026,Y,2,8,2,2,8,7,2,2,8
 0930,Thursday October 29, 2026,M,9,8,9,9,8,2,9,9,8
+0931,Friday October 30, 2026,J,9,7,1,9,7,3,1,9,7
