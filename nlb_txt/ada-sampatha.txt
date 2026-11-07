@@ -385,3 +385,4 @@ Draw,Date,Letter,Numbers...
 0936,Wednesday November 04, 2026,G,9,1,8,9,1,6,8,9,1
 0937,Thursday November 05, 2026,C,6,9,2,6,9,4,2,6,9
 0938,Friday November 06, 2026,H,5,1,5,5,1,5,5,5,1
+0939,Saturday November 07, 2026,G,2,8,3,2,8,7,3,2,8
