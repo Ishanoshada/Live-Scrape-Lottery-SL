@@ -393,3 +393,4 @@ Draw,Date,Letter,Numbers...
 2710,Thursday November 05, 2026,W,18,05,10,24,34
 2711,Friday November 06, 2026,D,06,08,44,59,65
 2712,Saturday November 07, 2026,N,14,05,28,59,60
+2713,Sunday November 08, 2026,Q,08,23,34,48,75

@@ -26,3 +26,4 @@ Draw,Date,Letter,Numbers...
 0025,Thursday November 05, 2026,Q,1,1,7,4
 0026,Friday November 06, 2026,C,9,7,0,2
 0027,Saturday November 07, 2026,R,0,7,9,8
+0028,Sunday November 08, 2026,S,9,5,7,8
