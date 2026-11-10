@@ -1920,3 +1920,4 @@ Draw,Date,Letter,Numbers...
 5049,2026-Nov-06 Friday,,21,41,43,55
 5050,2026-Nov-07 Saturday,,02,17,23,26
 5051,2026-Nov-08 Sunday,,49,53,54,55
+5052,2026-Nov-09 Monday,,03,06,58,61
