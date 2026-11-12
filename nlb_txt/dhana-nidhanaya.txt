@@ -398,3 +398,4 @@ Draw,Date,Letter,Numbers...
 2396,Monday November 09, 2026,P,05,49,56,70
 2397,Tuesday November 10, 2026,F,02,35,36,37
 2398,Wednesday November 11, 2026,L,5,42,47,74
+2399,Thursday November 12, 2026,R,15,48,55,68
