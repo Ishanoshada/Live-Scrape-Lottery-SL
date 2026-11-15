@@ -393,3 +393,4 @@ Draw,Date,Letter,Numbers...
 0944,Thursday November 12, 2026,O,4,4,9,4,4,6,9,4,4
 0945,Friday November 13, 2026,E,0,8,2,0,8,2,2,0,8
 0946,Saturday November 14, 2026,D,2,8,8,2,8,1,8,2,8
+0947,Sunday November 15, 2026,G,1,7,1,1,7,7,1,1,7

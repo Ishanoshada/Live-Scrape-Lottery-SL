@@ -33,3 +33,4 @@ Draw,Date,Letter,Numbers...
 0032,Thursday November 12, 2026,A,9,8,1,6
 0033,Friday November 13, 2026,U,9,8,0,4
 0034,Saturday November 14, 2026,L,7,5,7,8
+0035,Sunday November 15, 2026,D,5,0,8,4
