@@ -1928,3 +1928,4 @@ Draw,Date,Letter,Numbers...
 5057,2026-Nov-14 Saturday,,26,30,40,46
 5058,2026-Nov-15 Sunday,,20,53,58,62
 5059,2026-Nov-16 Monday,,24,27,32,61
+5060,2026-Nov-17 Tuesday,,08,35,56,57
