@@ -1079,3 +1079,4 @@ Draw,Date,Letter,Numbers...
 1078,2026-Nov-13 Friday,S,8,4,4,0,0,4
 1079,2026-Nov-14 Saturday,M,6,3,9,4,8,0
 1080,2026-Nov-15 Sunday,K,9,8,9,8,7,6
+1081,2026-Nov-16 Monday,R,4,8,4,2,0,4

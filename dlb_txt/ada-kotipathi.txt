@@ -1920,3 +1920,4 @@ Draw,Date,Letter,Numbers...
 3170,2026-Nov-13 Friday,G,10,40,54,65
 3171,2026-Nov-14 Saturday,J,31,39,50,62
 3172,2026-Nov-15 Sunday,R,29,37,62,70
+3173,2026-Nov-16 Monday,B,01,32,47,65
