@@ -37,3 +37,6 @@ Draw,Date,Letter,Numbers...
 0036,Monday November 16, 2026,P,9,2,1,6
 0037,Tuesday November 17, 2026,R,2,3,2,3
 0038,Wednesday November 18, 2026,T,3,9,4,9
+0039,Thursday November 19, 2026,U,7,9,6,8
+0040,Friday November 20, 2026,Z,5,3,8,3
+0041,Saturday November 21, 2026,O,7,4,4,9

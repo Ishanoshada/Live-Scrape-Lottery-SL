@@ -397,3 +397,6 @@ Draw,Date,Letter,Numbers...
 0948,Monday November 16, 2026,P,7,8,4,7,8,6,4,7,8
 0949,Tuesday November 17, 2026,M,1,5,6,1,5,8,6,1,5
 0950,Wednesday November 18, 2026,U,5,3,8,5,3,9,8,5,3
+0951,Thursday November 19, 2026,O,9,0,6,9,0,0,6,9,0
+0952,Friday November 20, 2026,D,4,0,8,4,0,8,8,4,0
+0953,Saturday November 21, 2026,F,6,5,2,6,5,3,2,6,5

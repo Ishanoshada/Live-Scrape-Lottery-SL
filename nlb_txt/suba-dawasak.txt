@@ -404,3 +404,6 @@ Draw,Date,Letter,Numbers...
 0489,Monday November 16, 2026,,4,17,43,5,9,8,8,9,8,8
 0490,Tuesday November 17, 2026,,02,38,65,4,1,0,4,1,0,4
 0491,Wednesday November 18, 2026,,01,05,38,1,4,6,6,4,6,6
+0492,Thursday November 19, 2026,,23,29,48,7,4,3,8,4,3,8
+0493,Friday November 20, 2026,,21,29,46,2,2,2,3,2,2,3
+0494,Saturday November 21, 2026,,49,55,59,6,4,4,5,4,4,5

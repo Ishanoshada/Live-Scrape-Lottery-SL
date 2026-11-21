@@ -1811,3 +1811,6 @@ Draw,Date,Letter,Numbers...
 2523,2026-Nov-16 Monday,T,01,16,23,67,23
 2524,2026-Nov-17 Tuesday,N,02,25,33,56,27
 2525,2026-Nov-18 Wednesday,V,21,27,53,75,16
+2526,2026-Nov-19 Thursday,Q,14,52,58,69,23
+2527,2026-Nov-20 Friday,C,43,47,51,75,20
+2528,2026-Nov-21 Saturday,R,06,17,32,51,14

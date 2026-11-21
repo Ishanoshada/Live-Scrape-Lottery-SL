@@ -404,3 +404,6 @@ Draw,Date,Letter,Numbers...
 2721,Monday November 16, 2026,B,5,8,21,33,50
 2722,Tuesday November 17, 2026,J,07,02,47,53,59
 2723,Wednesday November 18, 2026,D,01,04,08,12,24
+2724,Thursday November 19, 2026,X,26,14,24,29,78
+2725,Friday November 20, 2026,W,14,31,32,38,54
+2726,Saturday November 21, 2026,M,20,39,49,52,55

@@ -404,3 +404,6 @@ Draw,Date,Letter,Numbers...
 4615,Monday November 16, 2026,H,56,60,68,80
 4616,Tuesday November 17, 2026,U,15,30,39,71
 4617,Wednesday November 18, 2026,J,39,56,57,58
+4618,Thursday November 19, 2026,O,7,16,24,56
+4619,Friday November 20, 2026,K,51,54,65,74
+4620,Saturday November 21, 2026,T,40,57,58,79
