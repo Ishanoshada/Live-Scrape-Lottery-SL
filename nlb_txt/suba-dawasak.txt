@@ -407,3 +407,7 @@ Draw,Date,Letter,Numbers...
 0492,Thursday November 19, 2026,,23,29,48,7,4,3,8,4,3,8
 0493,Friday November 20, 2026,,21,29,46,2,2,2,3,2,2,3
 0494,Saturday November 21, 2026,,49,55,59,6,4,4,5,4,4,5
+0495,Sunday November 22, 2026,,42,46,52,1,2,6,4,2,6,4
+0496,Monday November 23, 2026,,04,06,26,0,7,7,7,7,7,7
+0497,Tuesday November 24, 2026,,3,11,56,5,6,8,2,6,8,2
+0498,Wednesday November 25, 2026,,27,52,62,8,5,3,3,5,3,3

@@ -400,3 +400,7 @@ Draw,Date,Letter,Numbers...
 0951,Thursday November 19, 2026,O,9,0,6,9,0,0,6,9,0
 0952,Friday November 20, 2026,D,4,0,8,4,0,8,8,4,0
 0953,Saturday November 21, 2026,F,6,5,2,6,5,3,2,6,5
+0954,Sunday November 22, 2026,S,8,6,0,8,6,0,0,8,6
+0955,Monday November 23, 2026,S,4,6,7,4,6,2,7,4,6
+0956,Tuesday November 24, 2026,C,9,8,1,9,8,6,1,9,8
+0957,Wednesday November 25, 2026,H,6,8,5,6,8,5,5,6,8

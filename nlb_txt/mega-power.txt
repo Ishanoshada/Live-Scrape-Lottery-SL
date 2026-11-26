@@ -407,3 +407,7 @@ Draw,Date,Letter,Numbers...
 2724,Thursday November 19, 2026,X,26,14,24,29,78
 2725,Friday November 20, 2026,W,14,31,32,38,54
 2726,Saturday November 21, 2026,M,20,39,49,52,55
+2727,Sunday November 22, 2026,P,19,7,10,61,62
+2728,Monday November 23, 2026,A,20,02,48,71,79
+2729,Tuesday November 24, 2026,Q,13,39,57,68,73
+2730,Wednesday November 25, 2026,Q,17,06,17,64,77

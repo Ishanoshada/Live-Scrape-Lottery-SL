@@ -1926,3 +1926,7 @@ Draw,Date,Letter,Numbers...
 3176,2026-Nov-19 Thursday,N,27,56,59,71
 3177,2026-Nov-20 Friday,R,16,40,49,75
 3178,2026-Nov-21 Saturday,H,24,48,61,65
+3179,2026-Nov-22 Sunday,G,08,09,52,57
+3180,2026-Nov-23 Monday,J,13,42,65,73
+3181,2026-Nov-24 Tuesday,V,03,23,36,66
+3182,2026-Nov-25 Wednesday,Y,23,30,37,54

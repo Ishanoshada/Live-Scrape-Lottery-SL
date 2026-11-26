@@ -407,3 +407,7 @@ Draw,Date,Letter,Numbers...
 1685,Thursday November 19, 2026,,24,31,43,53
 1686,Friday November 20, 2026,,03,20,33,58
 1687,Saturday November 21, 2026,,09,14,27,43
+1688,Sunday November 22, 2026,,3,12,20,48
+1689,Monday November 23, 2026,,21,41,46,57
+1690,Tuesday November 24, 2026,,24,27,40,42
+1691,Wednesday November 25, 2026,,27,34,40,41
